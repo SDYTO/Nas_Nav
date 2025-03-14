@@ -1,0 +1,2530 @@
+IP地址,数据中心,地区,城市,网络延迟
+172.64.229.43,NRT,Asia Pacific,Tokyo,129 ms
+172.64.228.109,NRT,Asia Pacific,Tokyo,132 ms
+104.17.133.97,SJC,North America,San Jose,144 ms
+141.101.121.241,SJC,North America,San Jose,145 ms
+104.17.100.131,SJC,North America,San Jose,146 ms
+162.159.2.16,SJC,North America,San Jose,147 ms
+104.16.129.109,SJC,North America,San Jose,148 ms
+104.18.59.149,SJC,North America,San Jose,149 ms
+104.17.114.109,SJC,North America,San Jose,149 ms
+104.17.14.109,SJC,North America,San Jose,149 ms
+104.18.48.218,SJC,North America,San Jose,150 ms
+104.18.136.157,SJC,North America,San Jose,150 ms
+104.16.116.35,LAX,North America,Los Angeles,151 ms
+104.16.71.165,SJC,North America,San Jose,151 ms
+104.18.64.16,SJC,North America,San Jose,151 ms
+104.18.183.99,SJC,North America,San Jose,153 ms
+104.16.4.48,SJC,North America,San Jose,153 ms
+104.18.114.157,LAX,North America,Los Angeles,155 ms
+104.18.63.144,SJC,North America,San Jose,156 ms
+104.16.115.162,LAX,North America,Los Angeles,156 ms
+104.16.246.83,SJC,North America,San Jose,156 ms
+104.17.37.182,SJC,North America,San Jose,156 ms
+104.18.106.88,SJC,North America,San Jose,157 ms
+162.159.207.189,SJC,North America,San Jose,157 ms
+141.101.122.93,SJC,North America,San Jose,157 ms
+104.16.41.128,SJC,North America,San Jose,158 ms
+104.16.22.91,SJC,North America,San Jose,159 ms
+104.17.127.36,SJC,North America,San Jose,159 ms
+172.64.230.142,SJC,North America,San Jose,160 ms
+172.64.155.5,SJC,North America,San Jose,160 ms
+104.18.71.33,SJC,North America,San Jose,160 ms
+104.17.61.143,SJC,North America,San Jose,160 ms
+104.16.9.61,SJC,North America,San Jose,160 ms
+104.16.200.20,SJC,North America,San Jose,161 ms
+104.18.131.149,SJC,North America,San Jose,161 ms
+104.17.77.174,SJC,North America,San Jose,161 ms
+104.17.53.66,SJC,North America,San Jose,161 ms
+162.159.241.77,LAX,North America,Los Angeles,162 ms
+104.19.213.31,SJC,North America,San Jose,162 ms
+172.64.157.75,SJC,North America,San Jose,163 ms
+104.18.69.115,SJC,North America,San Jose,163 ms
+104.18.23.163,LAX,North America,Los Angeles,163 ms
+104.18.57.29,SJC,North America,San Jose,163 ms
+104.17.86.197,SJC,North America,San Jose,163 ms
+104.16.126.114,LAX,North America,Los Angeles,163 ms
+104.17.43.180,SJC,North America,San Jose,163 ms
+104.16.148.143,SJC,North America,San Jose,163 ms
+104.18.232.235,SJC,North America,San Jose,163 ms
+104.16.248.154,SJC,North America,San Jose,163 ms
+104.19.161.176,SJC,North America,San Jose,163 ms
+104.16.19.238,SJC,North America,San Jose,164 ms
+104.17.229.174,SJC,North America,San Jose,164 ms
+104.21.127.27,AMS,Europe,Amsterdam,164 ms
+141.101.120.114,SJC,North America,San Jose,164 ms
+104.18.15.5,SJC,North America,San Jose,165 ms
+162.159.253.189,LAX,North America,Los Angeles,165 ms
+104.19.240.220,LAX,North America,Los Angeles,165 ms
+162.159.11.235,SJC,North America,San Jose,165 ms
+104.19.250.235,SJC,North America,San Jose,165 ms
+104.16.179.220,SJC,North America,San Jose,165 ms
+104.18.224.242,SJC,North America,San Jose,165 ms
+104.18.55.28,SJC,North America,San Jose,165 ms
+104.16.207.34,SJC,North America,San Jose,165 ms
+104.18.50.47,SJC,North America,San Jose,165 ms
+104.18.62.187,SJC,North America,San Jose,165 ms
+104.17.98.122,SJC,North America,San Jose,166 ms
+172.67.217.67,AMS,Europe,Amsterdam,166 ms
+23.227.38.254,SJC,North America,San Jose,166 ms
+104.18.146.208,SJC,North America,San Jose,167 ms
+141.101.123.199,SJC,North America,San Jose,167 ms
+104.18.27.137,LAX,North America,Los Angeles,168 ms
+104.18.20.40,LAX,North America,Los Angeles,168 ms
+104.16.170.130,SJC,North America,San Jose,168 ms
+104.19.245.197,LAX,North America,Los Angeles,169 ms
+104.21.210.181,AMS,Europe,Amsterdam,169 ms
+104.17.183.41,SJC,North America,San Jose,169 ms
+104.17.123.89,SJC,North America,San Jose,170 ms
+104.17.89.195,SJC,North America,San Jose,170 ms
+104.18.120.184,LAX,North America,Los Angeles,170 ms
+104.16.189.248,SJC,North America,San Jose,170 ms
+104.21.230.232,LAX,North America,Los Angeles,170 ms
+104.16.42.49,SJC,North America,San Jose,170 ms
+104.16.96.165,SJC,North America,San Jose,170 ms
+172.67.182.143,AMS,Europe,Amsterdam,170 ms
+104.18.204.79,SJC,North America,San Jose,170 ms
+162.159.255.244,LAX,North America,Los Angeles,170 ms
+162.159.250.124,LAX,North America,Los Angeles,170 ms
+104.19.7.195,SJC,North America,San Jose,170 ms
+172.67.189.73,AMS,Europe,Amsterdam,170 ms
+104.16.82.148,SJC,North America,San Jose,171 ms
+162.159.152.8,SJC,North America,San Jose,171 ms
+104.21.59.245,AMS,Europe,Amsterdam,171 ms
+104.18.30.157,LAX,North America,Los Angeles,171 ms
+104.18.115.68,LAX,North America,Los Angeles,171 ms
+104.16.70.169,SJC,North America,San Jose,171 ms
+104.18.68.243,SJC,North America,San Jose,171 ms
+104.19.140.219,LAX,North America,Los Angeles,171 ms
+162.159.244.119,LAX,North America,Los Angeles,171 ms
+104.19.134.163,LAX,North America,Los Angeles,171 ms
+104.21.12.224,AMS,Europe,Amsterdam,172 ms
+104.17.88.66,SJC,North America,San Jose,172 ms
+104.16.130.1,SJC,North America,San Jose,172 ms
+104.21.6.135,AMS,Europe,Amsterdam,172 ms
+104.16.125.199,LAX,North America,Los Angeles,172 ms
+104.16.154.158,SJC,North America,San Jose,172 ms
+104.19.129.240,LAX,North America,Los Angeles,172 ms
+104.16.254.202,SJC,North America,San Jose,172 ms
+172.67.215.209,AMS,Europe,Amsterdam,172 ms
+104.19.90.55,SJC,North America,San Jose,172 ms
+104.18.127.55,SJC,North America,San Jose,172 ms
+104.19.146.124,SJC,North America,San Jose,173 ms
+104.18.228.101,SJC,North America,San Jose,173 ms
+104.21.114.33,AMS,Europe,Amsterdam,173 ms
+104.17.204.167,SJC,North America,San Jose,173 ms
+104.18.53.194,SJC,North America,San Jose,173 ms
+104.16.68.163,SJC,North America,San Jose,173 ms
+104.16.59.68,SJC,North America,San Jose,173 ms
+162.159.36.144,SJC,North America,San Jose,173 ms
+104.19.21.70,SJC,North America,San Jose,173 ms
+104.17.160.46,SJC,North America,San Jose,173 ms
+172.67.251.230,AMS,Europe,Amsterdam,173 ms
+104.21.125.95,AMS,Europe,Amsterdam,173 ms
+104.16.23.15,SJC,North America,San Jose,173 ms
+104.16.24.214,SJC,North America,San Jose,174 ms
+104.21.229.30,LAX,North America,Los Angeles,174 ms
+104.21.236.79,LAX,North America,Los Angeles,174 ms
+104.18.247.211,SJC,North America,San Jose,174 ms
+162.159.254.74,LAX,North America,Los Angeles,174 ms
+162.159.251.240,LAX,North America,Los Angeles,174 ms
+104.18.113.217,LAX,North America,Los Angeles,174 ms
+172.67.140.225,AMS,Europe,Amsterdam,174 ms
+104.18.17.220,LAX,North America,Los Angeles,174 ms
+173.245.59.200,SJC,North America,San Jose,175 ms
+173.245.58.64,SJC,North America,San Jose,175 ms
+104.16.99.177,SJC,North America,San Jose,175 ms
+104.17.78.213,SJC,North America,San Jose,175 ms
+172.66.0.122,SJC,North America,San Jose,175 ms
+173.245.49.37,SJC,North America,San Jose,175 ms
+104.21.192.181,AMS,Europe,Amsterdam,175 ms
+104.19.249.91,LAX,North America,Los Angeles,175 ms
+104.19.248.41,LAX,North America,Los Angeles,175 ms
+104.21.2.158,AMS,Europe,Amsterdam,175 ms
+104.21.222.207,AMS,Europe,Amsterdam,175 ms
+172.67.138.207,AMS,Europe,Amsterdam,176 ms
+104.21.206.4,AMS,Europe,Amsterdam,176 ms
+172.67.186.149,AMS,Europe,Amsterdam,176 ms
+172.67.176.213,AMS,Europe,Amsterdam,176 ms
+104.19.18.146,SJC,North America,San Jose,176 ms
+104.21.5.42,AMS,Europe,Amsterdam,176 ms
+104.21.226.223,LAX,North America,Los Angeles,176 ms
+104.16.201.211,SJC,North America,San Jose,176 ms
+162.159.247.93,LAX,North America,Los Angeles,176 ms
+104.18.197.38,SJC,North America,San Jose,177 ms
+104.18.112.76,LAX,North America,Los Angeles,177 ms
+104.17.191.93,SJC,North America,San Jose,177 ms
+104.18.36.123,LAX,North America,Los Angeles,177 ms
+104.16.11.149,SJC,North America,San Jose,177 ms
+104.16.120.100,LAX,North America,Los Angeles,177 ms
+104.16.87.144,SJC,North America,San Jose,177 ms
+104.17.138.47,SJC,North America,San Jose,177 ms
+104.18.51.78,SJC,North America,San Jose,177 ms
+104.21.23.109,AMS,Europe,Amsterdam,177 ms
+104.21.234.73,LAX,North America,Los Angeles,177 ms
+104.16.114.90,LAX,North America,Los Angeles,177 ms
+104.18.49.125,SJC,North America,San Jose,178 ms
+104.19.143.158,LAX,North America,Los Angeles,178 ms
+104.18.54.72,SJC,North America,San Jose,178 ms
+104.21.55.213,AMS,Europe,Amsterdam,178 ms
+104.18.29.165,LAX,North America,Los Angeles,178 ms
+162.159.248.103,LAX,North America,Los Angeles,178 ms
+104.19.169.207,SJC,North America,San Jose,179 ms
+104.18.124.231,LAX,North America,Los Angeles,179 ms
+172.67.255.233,AMS,Europe,Amsterdam,179 ms
+172.64.53.153,SJC,North America,San Jose,179 ms
+172.67.169.41,AMS,Europe,Amsterdam,179 ms
+104.18.89.222,SJC,North America,San Jose,179 ms
+172.67.209.134,AMS,Europe,Amsterdam,180 ms
+104.19.24.35,SJC,North America,San Jose,180 ms
+104.18.121.156,LAX,North America,Los Angeles,180 ms
+104.19.247.6,LAX,North America,Los Angeles,180 ms
+104.19.141.182,LAX,North America,Los Angeles,180 ms
+104.21.239.101,LAX,North America,Los Angeles,180 ms
+162.159.243.249,LAX,North America,Los Angeles,180 ms
+104.16.127.76,LAX,North America,Los Angeles,180 ms
+104.21.19.165,AMS,Europe,Amsterdam,181 ms
+104.17.161.153,SJC,North America,San Jose,181 ms
+104.19.224.142,SJC,North America,San Jose,181 ms
+104.21.211.255,AMS,Europe,Amsterdam,182 ms
+162.159.20.3,SJC,North America,San Jose,182 ms
+104.19.115.113,SJC,North America,San Jose,182 ms
+104.16.112.61,LAX,North America,Los Angeles,182 ms
+104.16.138.22,SJC,North America,San Jose,182 ms
+104.19.142.128,LAX,North America,Los Angeles,182 ms
+104.18.212.136,SJC,North America,San Jose,182 ms
+172.64.89.170,SEA,North America,Seattle,182 ms
+104.18.230.120,SJC,North America,San Jose,182 ms
+104.18.122.250,LAX,North America,Los Angeles,182 ms
+104.17.69.172,SJC,North America,San Jose,183 ms
+172.67.172.54,AMS,Europe,Amsterdam,183 ms
+104.16.118.164,LAX,North America,Los Angeles,183 ms
+172.67.195.186,AMS,Europe,Amsterdam,183 ms
+162.159.246.149,LAX,North America,Los Angeles,183 ms
+162.159.242.193,LAX,North America,Los Angeles,183 ms
+104.19.243.173,LAX,North America,Los Angeles,183 ms
+104.21.85.235,AMS,Europe,Amsterdam,183 ms
+104.19.219.82,SJC,North America,San Jose,183 ms
+104.19.130.39,LAX,North America,Los Angeles,184 ms
+104.17.155.9,SJC,North America,San Jose,184 ms
+104.16.123.155,SLC,North America,Salt Lake City,184 ms
+162.159.38.222,LAX,North America,Los Angeles,184 ms
+104.21.58.206,AMS,Europe,Amsterdam,184 ms
+104.18.125.46,LAX,North America,Los Angeles,185 ms
+162.159.39.186,LAX,North America,Los Angeles,185 ms
+104.18.21.164,LAX,North America,Los Angeles,185 ms
+104.19.225.229,SJC,North America,San Jose,185 ms
+104.19.252.243,LAX,North America,Los Angeles,185 ms
+104.21.235.3,LAX,North America,Los Angeles,186 ms
+104.19.215.60,SJC,North America,San Jose,186 ms
+104.18.25.185,LAX,North America,Los Angeles,186 ms
+104.21.66.171,AMS,Europe,Amsterdam,186 ms
+104.17.121.207,SJC,North America,San Jose,186 ms
+104.17.62.162,SJC,North America,San Jose,186 ms
+104.21.73.26,AMS,Europe,Amsterdam,187 ms
+162.159.252.88,LAX,North America,Los Angeles,187 ms
+104.21.48.245,AMS,Europe,Amsterdam,187 ms
+162.159.240.235,LAX,North America,Los Angeles,187 ms
+104.21.20.199,AMS,Europe,Amsterdam,187 ms
+172.67.183.163,AMS,Europe,Amsterdam,188 ms
+104.18.126.191,SJC,North America,San Jose,188 ms
+172.67.160.101,AMS,Europe,Amsterdam,188 ms
+172.67.135.209,AMS,Europe,Amsterdam,188 ms
+104.16.210.146,SJC,North America,San Jose,189 ms
+172.64.83.155,SEA,North America,Seattle,189 ms
+104.19.241.118,LAX,North America,Los Angeles,189 ms
+104.21.24.80,AMS,Europe,Amsterdam,189 ms
+104.21.34.40,AMS,Europe,Amsterdam,189 ms
+104.19.121.12,SJC,North America,San Jose,189 ms
+104.18.31.52,LAX,North America,Los Angeles,189 ms
+104.18.24.175,SJC,North America,San Jose,189 ms
+104.17.167.75,SJC,North America,San Jose,190 ms
+104.18.102.226,SJC,North America,San Jose,190 ms
+104.18.147.211,SJC,North America,San Jose,190 ms
+162.159.143.3,SJC,North America,San Jose,191 ms
+104.19.253.239,LAX,North America,Los Angeles,191 ms
+104.18.248.227,SJC,North America,San Jose,191 ms
+104.18.56.254,SJC,North America,San Jose,192 ms
+104.21.99.69,AMS,Europe,Amsterdam,192 ms
+104.21.30.210,AMS,Europe,Amsterdam,192 ms
+172.65.224.52,SJC,North America,San Jose,192 ms
+104.19.60.206,SJC,North America,San Jose,193 ms
+104.16.113.20,LAX,North America,Los Angeles,193 ms
+104.19.251.235,LAX,North America,Los Angeles,193 ms
+104.21.68.53,AMS,Europe,Amsterdam,193 ms
+104.16.131.143,SJC,North America,San Jose,193 ms
+104.21.227.30,LAX,North America,Los Angeles,193 ms
+104.16.119.204,DEN,North America,Denver,194 ms
+172.64.40.7,LAX,North America,Los Angeles,194 ms
+104.18.19.14,LAX,North America,Los Angeles,194 ms
+172.64.34.202,SJC,North America,San Jose,194 ms
+104.21.50.16,AMS,Europe,Amsterdam,194 ms
+104.19.181.223,SJC,North America,San Jose,194 ms
+104.19.128.54,LAX,North America,Los Angeles,194 ms
+104.17.145.47,SJC,North America,San Jose,195 ms
+104.21.102.55,AMS,Europe,Amsterdam,196 ms
+104.17.192.177,SJC,North America,San Jose,196 ms
+104.19.92.74,SJC,North America,San Jose,196 ms
+162.159.245.55,LAX,North America,Los Angeles,196 ms
+104.18.16.206,LAX,North America,Los Angeles,196 ms
+104.18.28.190,LAX,North America,Los Angeles,196 ms
+104.19.244.239,LAX,North America,Los Angeles,197 ms
+104.18.180.219,SJC,North America,San Jose,198 ms
+172.67.141.2,AMS,Europe,Amsterdam,198 ms
+172.67.199.27,AMS,Europe,Amsterdam,198 ms
+104.18.9.108,SJC,North America,San Jose,198 ms
+104.27.105.46,IAD,North America,Ashburn,198 ms
+104.18.244.84,SJC,North America,San Jose,198 ms
+104.21.109.5,AMS,Europe,Amsterdam,199 ms
+104.25.131.20,IAD,North America,Ashburn,199 ms
+162.159.249.250,LAX,North America,Los Angeles,199 ms
+104.17.175.145,SJC,North America,San Jose,199 ms
+172.67.221.235,AMS,Europe,Amsterdam,200 ms
+104.16.121.49,LAX,North America,Los Angeles,200 ms
+104.20.246.223,IAD,North America,Ashburn,200 ms
+104.20.63.191,IAD,North America,Ashburn,200 ms
+162.159.44.125,LAX,North America,Los Angeles,200 ms
+172.67.232.86,AMS,Europe,Amsterdam,200 ms
+104.19.100.2,SJC,North America,San Jose,200 ms
+104.16.117.130,DEN,North America,Denver,200 ms
+172.67.226.195,AMS,Europe,Amsterdam,201 ms
+172.67.149.37,AMS,Europe,Amsterdam,201 ms
+104.18.26.241,LAX,North America,Los Angeles,201 ms
+104.17.188.99,SJC,North America,San Jose,201 ms
+104.20.8.57,IAD,North America,Ashburn,202 ms
+104.24.154.74,IAD,North America,Ashburn,202 ms
+104.18.117.222,LAX,North America,Los Angeles,202 ms
+104.21.18.26,AMS,Europe,Amsterdam,202 ms
+172.67.206.188,AMS,Europe,Amsterdam,202 ms
+104.27.90.195,IAD,North America,Ashburn,202 ms
+104.19.50.73,SJC,North America,San Jose,202 ms
+104.19.138.80,LAX,North America,Los Angeles,202 ms
+104.21.221.217,AMS,Europe,Amsterdam,202 ms
+104.17.162.149,SJC,North America,San Jose,202 ms
+104.25.85.227,IAD,North America,Ashburn,202 ms
+104.21.3.180,AMS,Europe,Amsterdam,202 ms
+172.67.173.139,AMS,Europe,Amsterdam,202 ms
+104.25.151.35,IAD,North America,Ashburn,203 ms
+172.67.234.107,AMS,Europe,Amsterdam,203 ms
+104.21.21.168,AMS,Europe,Amsterdam,203 ms
+172.67.235.181,AMS,Europe,Amsterdam,203 ms
+172.67.163.152,AMS,Europe,Amsterdam,203 ms
+104.21.207.135,AMS,Europe,Amsterdam,203 ms
+104.25.167.213,IAD,North America,Ashburn,203 ms
+104.19.40.119,SJC,North America,San Jose,204 ms
+104.19.139.76,LAX,North America,Los Angeles,204 ms
+104.20.80.65,IAD,North America,Ashburn,204 ms
+104.25.136.124,IAD,North America,Ashburn,204 ms
+104.21.11.208,AMS,Europe,Amsterdam,204 ms
+104.20.209.43,IAD,North America,Ashburn,204 ms
+104.20.95.181,IAD,North America,Ashburn,204 ms
+104.17.111.58,SJC,North America,San Jose,204 ms
+104.21.4.95,AMS,Europe,Amsterdam,205 ms
+104.21.203.137,AMS,Europe,Amsterdam,205 ms
+104.20.54.83,IAD,North America,Ashburn,205 ms
+104.16.227.143,SJC,North America,San Jose,205 ms
+172.67.244.69,AMS,Europe,Amsterdam,205 ms
+104.20.231.224,IAD,North America,Ashburn,205 ms
+104.17.214.24,SJC,North America,San Jose,205 ms
+104.20.188.217,IAD,North America,Ashburn,205 ms
+104.27.113.92,IAD,North America,Ashburn,205 ms
+172.67.161.94,AMS,Europe,Amsterdam,205 ms
+104.21.25.119,AMS,Europe,Amsterdam,205 ms
+104.20.191.254,IAD,North America,Ashburn,205 ms
+172.67.231.44,AMS,Europe,Amsterdam,206 ms
+104.24.82.4,IAD,North America,Ashburn,206 ms
+172.67.144.71,AMS,Europe,Amsterdam,206 ms
+104.22.23.12,IAD,North America,Ashburn,206 ms
+104.21.117.37,AMS,Europe,Amsterdam,206 ms
+104.21.17.238,AMS,Europe,Amsterdam,206 ms
+172.67.139.160,AMS,Europe,Amsterdam,206 ms
+172.67.28.236,IAD,North America,Ashburn,206 ms
+172.67.185.218,AMS,Europe,Amsterdam,206 ms
+104.27.23.53,IAD,North America,Ashburn,206 ms
+172.67.153.222,AMS,Europe,Amsterdam,206 ms
+104.25.232.89,IAD,North America,Ashburn,206 ms
+104.25.76.233,IAD,North America,Ashburn,206 ms
+104.25.96.148,IAD,North America,Ashburn,206 ms
+104.20.123.7,IAD,North America,Ashburn,206 ms
+104.20.192.84,IAD,North America,Ashburn,206 ms
+104.16.124.210,LAX,North America,Los Angeles,206 ms
+172.67.204.159,AMS,Europe,Amsterdam,206 ms
+172.67.203.142,AMS,Europe,Amsterdam,206 ms
+104.25.184.174,IAD,North America,Ashburn,207 ms
+104.21.1.44,AMS,Europe,Amsterdam,207 ms
+172.67.213.155,AMS,Europe,Amsterdam,207 ms
+104.24.130.208,IAD,North America,Ashburn,207 ms
+104.20.109.57,IAD,North America,Ashburn,207 ms
+104.27.10.73,IAD,North America,Ashburn,207 ms
+104.21.201.176,AMS,Europe,Amsterdam,207 ms
+172.67.194.92,AMS,Europe,Amsterdam,207 ms
+172.67.237.192,AMS,Europe,Amsterdam,207 ms
+188.114.97.108,AMS,Europe,Amsterdam,207 ms
+172.67.35.196,IAD,North America,Ashburn,207 ms
+104.21.113.147,AMS,Europe,Amsterdam,207 ms
+104.21.49.90,AMS,Europe,Amsterdam,207 ms
+104.21.37.64,AMS,Europe,Amsterdam,207 ms
+104.25.8.249,IAD,North America,Ashburn,207 ms
+104.25.140.155,IAD,North America,Ashburn,207 ms
+104.25.109.232,IAD,North America,Ashburn,207 ms
+104.24.238.1,IAD,North America,Ashburn,207 ms
+104.20.195.223,IAD,North America,Ashburn,207 ms
+172.67.64.131,IAD,North America,Ashburn,208 ms
+172.67.219.152,AMS,Europe,Amsterdam,208 ms
+104.16.122.1,SJC,North America,San Jose,208 ms
+104.25.211.98,IAD,North America,Ashburn,208 ms
+104.20.78.183,IAD,North America,Ashburn,208 ms
+172.67.236.114,AMS,Europe,Amsterdam,208 ms
+104.25.118.146,IAD,North America,Ashburn,208 ms
+104.21.52.240,AMS,Europe,Amsterdam,208 ms
+172.67.242.147,AMS,Europe,Amsterdam,208 ms
+104.24.160.255,IAD,North America,Ashburn,208 ms
+104.21.107.209,AMS,Europe,Amsterdam,208 ms
+172.67.253.19,AMS,Europe,Amsterdam,208 ms
+104.21.110.11,AMS,Europe,Amsterdam,208 ms
+104.27.91.107,IAD,North America,Ashburn,208 ms
+104.22.69.105,IAD,North America,Ashburn,208 ms
+104.22.52.108,IAD,North America,Ashburn,208 ms
+172.67.16.233,IAD,North America,Ashburn,208 ms
+104.21.76.59,AMS,Europe,Amsterdam,208 ms
+104.20.148.118,IAD,North America,Ashburn,208 ms
+104.24.177.25,IAD,North America,Ashburn,208 ms
+104.21.75.2,AMS,Europe,Amsterdam,208 ms
+172.67.175.176,AMS,Europe,Amsterdam,209 ms
+104.22.10.55,IAD,North America,Ashburn,209 ms
+172.67.47.98,IAD,North America,Ashburn,209 ms
+172.67.250.95,AMS,Europe,Amsterdam,209 ms
+104.20.133.56,IAD,North America,Ashburn,209 ms
+104.21.205.139,AMS,Europe,Amsterdam,209 ms
+104.21.200.30,AMS,Europe,Amsterdam,209 ms
+104.25.210.69,IAD,North America,Ashburn,209 ms
+104.25.231.4,IAD,North America,Ashburn,209 ms
+104.25.100.61,IAD,North America,Ashburn,209 ms
+172.67.124.52,IAD,North America,Ashburn,209 ms
+104.21.51.216,AMS,Europe,Amsterdam,209 ms
+172.67.33.228,IAD,North America,Ashburn,209 ms
+172.67.200.31,AMS,Europe,Amsterdam,209 ms
+172.67.243.253,AMS,Europe,Amsterdam,209 ms
+172.67.241.14,AMS,Europe,Amsterdam,209 ms
+104.21.213.124,AMS,Europe,Amsterdam,209 ms
+104.24.152.207,IAD,North America,Ashburn,209 ms
+104.25.105.21,IAD,North America,Ashburn,209 ms
+104.21.22.199,AMS,Europe,Amsterdam,209 ms
+104.20.193.68,IAD,North America,Ashburn,209 ms
+104.22.14.196,IAD,North America,Ashburn,209 ms
+104.23.128.88,IAD,North America,Ashburn,209 ms
+104.25.188.177,IAD,North America,Ashburn,209 ms
+104.24.181.249,IAD,North America,Ashburn,209 ms
+104.18.116.140,LAX,North America,Los Angeles,209 ms
+104.21.60.15,AMS,Europe,Amsterdam,209 ms
+172.65.171.230,IAD,North America,Ashburn,209 ms
+172.67.222.160,AMS,Europe,Amsterdam,209 ms
+104.25.122.51,IAD,North America,Ashburn,210 ms
+104.21.65.35,AMS,Europe,Amsterdam,210 ms
+104.25.200.216,IAD,North America,Ashburn,210 ms
+104.22.41.1,IAD,North America,Ashburn,210 ms
+104.24.73.16,IAD,North America,Ashburn,210 ms
+104.24.74.60,IAD,North America,Ashburn,210 ms
+104.25.215.33,IAD,North America,Ashburn,210 ms
+104.20.51.187,IAD,North America,Ashburn,210 ms
+104.17.28.191,SJC,North America,San Jose,210 ms
+104.27.19.209,IAD,North America,Ashburn,210 ms
+104.21.35.77,AMS,Europe,Amsterdam,210 ms
+104.21.81.249,AMS,Europe,Amsterdam,210 ms
+104.24.55.20,IAD,North America,Ashburn,210 ms
+104.21.204.60,AMS,Europe,Amsterdam,210 ms
+104.21.194.59,AMS,Europe,Amsterdam,210 ms
+104.27.46.75,IAD,North America,Ashburn,210 ms
+104.23.142.33,IAD,North America,Ashburn,210 ms
+104.27.16.99,IAD,North America,Ashburn,210 ms
+104.24.190.29,IAD,North America,Ashburn,210 ms
+104.22.33.211,IAD,North America,Ashburn,210 ms
+172.67.31.49,IAD,North America,Ashburn,210 ms
+104.20.18.60,IAD,North America,Ashburn,211 ms
+104.25.174.117,IAD,North America,Ashburn,211 ms
+172.67.212.109,AMS,Europe,Amsterdam,211 ms
+104.27.110.25,IAD,North America,Ashburn,211 ms
+104.25.97.22,IAD,North America,Ashburn,211 ms
+104.24.56.183,IAD,North America,Ashburn,211 ms
+104.27.108.25,IAD,North America,Ashburn,211 ms
+104.20.165.124,IAD,North America,Ashburn,211 ms
+104.24.228.16,IAD,North America,Ashburn,211 ms
+104.27.70.219,IAD,North America,Ashburn,211 ms
+104.27.2.88,IAD,North America,Ashburn,211 ms
+104.25.234.9,IAD,North America,Ashburn,211 ms
+104.24.151.121,IAD,North America,Ashburn,211 ms
+104.27.40.254,IAD,North America,Ashburn,211 ms
+104.27.42.73,IAD,North America,Ashburn,211 ms
+104.20.111.61,IAD,North America,Ashburn,211 ms
+104.25.141.227,IAD,North America,Ashburn,211 ms
+104.26.6.152,IAD,North America,Ashburn,211 ms
+104.25.243.103,IAD,North America,Ashburn,211 ms
+104.21.56.158,AMS,Europe,Amsterdam,211 ms
+104.24.205.140,IAD,North America,Ashburn,211 ms
+104.20.167.159,IAD,North America,Ashburn,211 ms
+104.25.191.214,IAD,North America,Ashburn,211 ms
+104.21.16.66,AMS,Europe,Amsterdam,211 ms
+104.25.152.24,IAD,North America,Ashburn,211 ms
+104.20.31.234,IAD,North America,Ashburn,211 ms
+104.21.202.227,AMS,Europe,Amsterdam,211 ms
+104.21.0.13,AMS,Europe,Amsterdam,211 ms
+104.27.52.7,IAD,North America,Ashburn,211 ms
+172.67.249.236,AMS,Europe,Amsterdam,211 ms
+104.20.61.224,IAD,North America,Ashburn,211 ms
+104.25.22.156,IAD,North America,Ashburn,212 ms
+104.24.8.206,IAD,North America,Ashburn,212 ms
+104.24.7.146,IAD,North America,Ashburn,212 ms
+172.65.20.15,AMS,Europe,Amsterdam,212 ms
+104.25.98.255,IAD,North America,Ashburn,212 ms
+104.25.60.123,IAD,North America,Ashburn,212 ms
+172.67.72.194,IAD,North America,Ashburn,212 ms
+172.67.63.103,IAD,North America,Ashburn,212 ms
+172.67.188.236,AMS,Europe,Amsterdam,212 ms
+104.24.167.21,IAD,North America,Ashburn,212 ms
+172.67.57.178,IAD,North America,Ashburn,212 ms
+104.25.90.111,IAD,North America,Ashburn,212 ms
+104.25.245.193,IAD,North America,Ashburn,212 ms
+104.25.254.87,IAD,North America,Ashburn,212 ms
+104.25.246.65,IAD,North America,Ashburn,212 ms
+162.159.45.101,LAX,North America,Los Angeles,212 ms
+104.21.67.238,AMS,Europe,Amsterdam,212 ms
+104.24.30.67,IAD,North America,Ashburn,212 ms
+104.20.142.169,IAD,North America,Ashburn,212 ms
+104.25.115.3,IAD,North America,Ashburn,212 ms
+104.24.208.152,IAD,North America,Ashburn,212 ms
+104.27.0.40,IAD,North America,Ashburn,212 ms
+104.22.1.9,IAD,North America,Ashburn,212 ms
+104.20.19.133,IAD,North America,Ashburn,212 ms
+172.67.118.106,IAD,North America,Ashburn,212 ms
+104.23.143.230,IAD,North America,Ashburn,212 ms
+104.25.230.142,IAD,North America,Ashburn,212 ms
+104.21.38.111,AMS,Europe,Amsterdam,212 ms
+104.24.221.7,IAD,North America,Ashburn,212 ms
+104.21.47.180,AMS,Europe,Amsterdam,213 ms
+104.20.14.149,IAD,North America,Ashburn,213 ms
+104.21.209.127,AMS,Europe,Amsterdam,213 ms
+104.27.45.199,IAD,North America,Ashburn,213 ms
+104.27.36.82,IAD,North America,Ashburn,213 ms
+104.24.248.205,IAD,North America,Ashburn,213 ms
+104.20.226.11,IAD,North America,Ashburn,213 ms
+104.20.135.45,IAD,North America,Ashburn,213 ms
+104.20.92.203,IAD,North America,Ashburn,213 ms
+104.24.244.74,IAD,North America,Ashburn,213 ms
+104.20.254.236,IAD,North America,Ashburn,213 ms
+104.21.82.136,AMS,Europe,Amsterdam,213 ms
+104.25.36.57,IAD,North America,Ashburn,213 ms
+104.24.179.236,IAD,North America,Ashburn,213 ms
+104.20.216.168,IAD,North America,Ashburn,213 ms
+104.27.26.137,IAD,North America,Ashburn,213 ms
+104.27.13.166,IAD,North America,Ashburn,213 ms
+104.27.68.9,IAD,North America,Ashburn,213 ms
+104.25.4.106,IAD,North America,Ashburn,213 ms
+104.27.28.94,IAD,North America,Ashburn,213 ms
+104.24.222.209,IAD,North America,Ashburn,213 ms
+104.20.126.210,IAD,North America,Ashburn,213 ms
+104.22.59.200,IAD,North America,Ashburn,213 ms
+104.27.79.71,IAD,North America,Ashburn,213 ms
+172.67.248.61,AMS,Europe,Amsterdam,213 ms
+172.67.168.37,AMS,Europe,Amsterdam,213 ms
+172.67.157.252,AMS,Europe,Amsterdam,213 ms
+104.27.3.73,IAD,North America,Ashburn,213 ms
+104.20.232.195,IAD,North America,Ashburn,213 ms
+104.25.185.252,IAD,North America,Ashburn,214 ms
+141.101.113.164,IAD,North America,Ashburn,214 ms
+104.21.42.171,AMS,Europe,Amsterdam,214 ms
+104.20.248.36,IAD,North America,Ashburn,214 ms
+104.25.199.23,IAD,North America,Ashburn,214 ms
+104.24.83.102,IAD,North America,Ashburn,214 ms
+172.67.247.119,AMS,Europe,Amsterdam,214 ms
+172.67.82.60,IAD,North America,Ashburn,214 ms
+104.25.35.171,IAD,North America,Ashburn,214 ms
+104.25.23.72,IAD,North America,Ashburn,214 ms
+172.67.1.44,IAD,North America,Ashburn,214 ms
+104.27.106.171,IAD,North America,Ashburn,214 ms
+104.20.60.171,IAD,North America,Ashburn,214 ms
+172.67.197.245,AMS,Europe,Amsterdam,214 ms
+172.67.96.63,IAD,North America,Ashburn,214 ms
+104.27.193.252,IAD,North America,Ashburn,214 ms
+104.24.169.85,IAD,North America,Ashburn,214 ms
+104.20.176.145,IAD,North America,Ashburn,214 ms
+172.67.130.251,AMS,Europe,Amsterdam,214 ms
+104.21.197.106,AMS,Europe,Amsterdam,214 ms
+172.67.227.121,AMS,Europe,Amsterdam,214 ms
+104.25.149.146,IAD,North America,Ashburn,214 ms
+104.21.14.206,AMS,Europe,Amsterdam,214 ms
+104.20.48.127,IAD,North America,Ashburn,214 ms
+104.25.187.96,IAD,North America,Ashburn,214 ms
+104.27.5.109,IAD,North America,Ashburn,214 ms
+104.20.217.252,IAD,North America,Ashburn,214 ms
+104.24.65.104,IAD,North America,Ashburn,215 ms
+104.20.89.144,IAD,North America,Ashburn,215 ms
+104.20.120.59,IAD,North America,Ashburn,215 ms
+104.24.129.108,IAD,North America,Ashburn,215 ms
+172.67.53.87,IAD,North America,Ashburn,215 ms
+104.22.61.27,IAD,North America,Ashburn,215 ms
+104.24.140.234,IAD,North America,Ashburn,215 ms
+172.67.39.9,IAD,North America,Ashburn,215 ms
+172.67.136.242,AMS,Europe,Amsterdam,215 ms
+104.24.131.60,IAD,North America,Ashburn,215 ms
+104.25.20.219,IAD,North America,Ashburn,215 ms
+104.21.126.164,AMS,Europe,Amsterdam,215 ms
+172.67.171.185,AMS,Europe,Amsterdam,215 ms
+104.22.34.138,IAD,North America,Ashburn,215 ms
+104.25.233.6,IAD,North America,Ashburn,215 ms
+104.25.255.73,IAD,North America,Ashburn,215 ms
+104.24.234.98,IAD,North America,Ashburn,215 ms
+104.20.134.9,IAD,North America,Ashburn,215 ms
+104.27.207.9,IAD,North America,Ashburn,215 ms
+104.24.63.88,IAD,North America,Ashburn,215 ms
+104.24.182.113,IAD,North America,Ashburn,215 ms
+104.25.217.191,IAD,North America,Ashburn,215 ms
+104.24.40.136,IAD,North America,Ashburn,215 ms
+104.20.132.190,IAD,North America,Ashburn,215 ms
+104.24.33.251,IAD,North America,Ashburn,215 ms
+104.21.223.171,AMS,Europe,Amsterdam,215 ms
+104.24.9.8,IAD,North America,Ashburn,216 ms
+104.24.46.40,IAD,North America,Ashburn,216 ms
+104.20.37.236,IAD,North America,Ashburn,216 ms
+104.20.170.179,IAD,North America,Ashburn,216 ms
+172.67.83.40,IAD,North America,Ashburn,216 ms
+104.24.172.224,IAD,North America,Ashburn,216 ms
+104.20.43.245,IAD,North America,Ashburn,216 ms
+162.159.42.170,IAD,North America,Ashburn,216 ms
+104.25.244.132,IAD,North America,Ashburn,216 ms
+104.25.242.109,IAD,North America,Ashburn,216 ms
+104.25.162.92,IAD,North America,Ashburn,216 ms
+104.22.43.62,IAD,North America,Ashburn,216 ms
+104.21.94.225,AMS,Europe,Amsterdam,216 ms
+104.20.149.68,IAD,North America,Ashburn,216 ms
+172.67.180.196,AMS,Europe,Amsterdam,216 ms
+104.21.33.28,AMS,Europe,Amsterdam,216 ms
+104.25.46.119,IAD,North America,Ashburn,216 ms
+172.67.254.148,AMS,Europe,Amsterdam,216 ms
+104.20.82.94,IAD,North America,Ashburn,216 ms
+104.27.61.165,IAD,North America,Ashburn,216 ms
+104.20.155.0,IAD,North America,Ashburn,216 ms
+104.25.219.136,IAD,North America,Ashburn,216 ms
+104.24.249.248,IAD,North America,Ashburn,216 ms
+104.25.42.184,IAD,North America,Ashburn,216 ms
+104.21.98.79,AMS,Europe,Amsterdam,216 ms
+104.20.144.71,IAD,North America,Ashburn,216 ms
+104.27.122.211,IAD,North America,Ashburn,216 ms
+104.27.121.183,IAD,North America,Ashburn,216 ms
+104.25.237.18,IAD,North America,Ashburn,216 ms
+104.25.170.248,IAD,North America,Ashburn,216 ms
+104.24.19.93,IAD,North America,Ashburn,216 ms
+104.24.24.223,IAD,North America,Ashburn,216 ms
+104.20.212.122,IAD,North America,Ashburn,216 ms
+104.25.146.113,IAD,North America,Ashburn,216 ms
+104.21.95.34,AMS,Europe,Amsterdam,216 ms
+104.25.224.10,IAD,North America,Ashburn,217 ms
+172.67.184.109,AMS,Europe,Amsterdam,217 ms
+172.67.97.83,IAD,North America,Ashburn,217 ms
+104.24.128.147,IAD,North America,Ashburn,217 ms
+104.25.252.132,IAD,North America,Ashburn,217 ms
+104.27.101.121,IAD,North America,Ashburn,217 ms
+172.67.5.58,IAD,North America,Ashburn,217 ms
+172.67.0.166,IAD,North America,Ashburn,217 ms
+172.67.187.128,AMS,Europe,Amsterdam,217 ms
+104.25.183.211,IAD,North America,Ashburn,217 ms
+172.67.190.197,AMS,Europe,Amsterdam,217 ms
+104.20.253.219,IAD,North America,Ashburn,217 ms
+104.27.75.198,IAD,North America,Ashburn,217 ms
+104.27.76.138,IAD,North America,Ashburn,217 ms
+104.27.77.76,IAD,North America,Ashburn,217 ms
+104.21.217.168,AMS,Europe,Amsterdam,217 ms
+104.25.144.85,IAD,North America,Ashburn,217 ms
+104.27.125.178,IAD,North America,Ashburn,217 ms
+104.24.156.94,IAD,North America,Ashburn,217 ms
+104.24.198.182,IAD,North America,Ashburn,217 ms
+104.21.118.187,AMS,Europe,Amsterdam,217 ms
+104.25.126.104,IAD,North America,Ashburn,217 ms
+104.24.4.77,IAD,North America,Ashburn,217 ms
+172.67.170.190,AMS,Europe,Amsterdam,217 ms
+104.24.44.156,IAD,North America,Ashburn,217 ms
+172.67.68.106,IAD,North America,Ashburn,217 ms
+172.67.108.5,IAD,North America,Ashburn,217 ms
+104.21.121.249,AMS,Europe,Amsterdam,217 ms
+104.20.46.0,IAD,North America,Ashburn,217 ms
+172.67.181.88,AMS,Europe,Amsterdam,217 ms
+104.27.204.10,IAD,North America,Ashburn,217 ms
+104.25.89.81,IAD,North America,Ashburn,217 ms
+104.20.12.163,IAD,North America,Ashburn,217 ms
+104.24.84.197,IAD,North America,Ashburn,217 ms
+104.21.199.240,AMS,Europe,Amsterdam,217 ms
+104.26.15.211,IAD,North America,Ashburn,217 ms
+104.24.184.157,IAD,North America,Ashburn,218 ms
+104.24.185.27,IAD,North America,Ashburn,218 ms
+104.20.190.120,IAD,North America,Ashburn,218 ms
+104.24.3.70,IAD,North America,Ashburn,218 ms
+104.21.116.103,AMS,Europe,Amsterdam,218 ms
+104.25.31.255,IAD,North America,Ashburn,218 ms
+104.22.17.234,IAD,North America,Ashburn,218 ms
+104.20.0.214,IAD,North America,Ashburn,218 ms
+104.21.79.172,AMS,Europe,Amsterdam,218 ms
+104.22.76.178,IAD,North America,Ashburn,218 ms
+172.67.90.52,IAD,North America,Ashburn,218 ms
+104.24.66.135,IAD,North America,Ashburn,218 ms
+104.25.72.218,IAD,North America,Ashburn,218 ms
+104.23.133.40,IAD,North America,Ashburn,218 ms
+104.20.26.7,IAD,North America,Ashburn,218 ms
+162.159.43.71,IAD,North America,Ashburn,218 ms
+104.24.148.247,IAD,North America,Ashburn,218 ms
+172.67.106.182,IAD,North America,Ashburn,218 ms
+104.23.139.66,IAD,North America,Ashburn,218 ms
+104.25.1.189,IAD,North America,Ashburn,218 ms
+172.67.246.245,AMS,Europe,Amsterdam,218 ms
+104.25.33.196,IAD,North America,Ashburn,218 ms
+104.27.67.10,IAD,North America,Ashburn,218 ms
+104.22.4.168,IAD,North America,Ashburn,218 ms
+104.21.39.40,AMS,Europe,Amsterdam,218 ms
+104.20.219.152,IAD,North America,Ashburn,218 ms
+104.24.1.161,IAD,North America,Ashburn,218 ms
+104.27.200.92,IAD,North America,Ashburn,218 ms
+104.24.48.152,IAD,North America,Ashburn,218 ms
+104.24.43.108,IAD,North America,Ashburn,218 ms
+104.22.63.145,IAD,North America,Ashburn,218 ms
+104.25.65.191,IAD,North America,Ashburn,218 ms
+104.20.140.195,IAD,North America,Ashburn,218 ms
+172.67.38.3,IAD,North America,Ashburn,218 ms
+172.67.37.8,IAD,North America,Ashburn,218 ms
+104.24.64.16,IAD,North America,Ashburn,218 ms
+104.25.189.141,IAD,North America,Ashburn,218 ms
+104.27.102.30,IAD,North America,Ashburn,218 ms
+104.25.5.188,IAD,North America,Ashburn,218 ms
+104.27.201.93,IAD,North America,Ashburn,218 ms
+104.25.44.100,IAD,North America,Ashburn,218 ms
+104.25.0.36,IAD,North America,Ashburn,219 ms
+104.24.186.113,IAD,North America,Ashburn,219 ms
+104.17.171.6,SJC,North America,San Jose,219 ms
+104.22.32.69,IAD,North America,Ashburn,219 ms
+104.23.127.199,IAD,North America,Ashburn,219 ms
+104.25.94.48,IAD,North America,Ashburn,219 ms
+104.21.219.133,AMS,Europe,Amsterdam,219 ms
+104.20.130.148,IAD,North America,Ashburn,219 ms
+104.27.25.254,IAD,North America,Ashburn,219 ms
+104.25.194.74,IAD,North America,Ashburn,219 ms
+104.24.149.101,IAD,North America,Ashburn,219 ms
+104.25.59.24,IAD,North America,Ashburn,219 ms
+104.20.242.184,IAD,North America,Ashburn,219 ms
+104.21.195.83,AMS,Europe,Amsterdam,219 ms
+104.25.179.99,IAD,North America,Ashburn,219 ms
+104.22.40.17,IAD,North America,Ashburn,219 ms
+172.67.19.78,IAD,North America,Ashburn,219 ms
+104.26.4.147,IAD,North America,Ashburn,219 ms
+104.24.143.173,IAD,North America,Ashburn,219 ms
+104.24.159.187,IAD,North America,Ashburn,219 ms
+104.22.57.118,IAD,North America,Ashburn,219 ms
+104.20.241.94,IAD,North America,Ashburn,219 ms
+104.24.95.115,IAD,North America,Ashburn,219 ms
+104.25.205.75,IAD,North America,Ashburn,219 ms
+104.20.25.104,IAD,North America,Ashburn,219 ms
+104.24.35.99,IAD,North America,Ashburn,220 ms
+104.24.146.182,IAD,North America,Ashburn,220 ms
+104.18.18.29,DEN,North America,Denver,220 ms
+104.27.66.225,IAD,North America,Ashburn,220 ms
+172.67.223.232,AMS,Europe,Amsterdam,220 ms
+104.27.11.46,IAD,North America,Ashburn,220 ms
+104.27.8.249,IAD,North America,Ashburn,220 ms
+104.25.178.244,IAD,North America,Ashburn,220 ms
+104.27.53.66,IAD,North America,Ashburn,220 ms
+104.20.147.138,IAD,North America,Ashburn,220 ms
+104.24.206.67,IAD,North America,Ashburn,220 ms
+104.17.118.14,SJC,North America,San Jose,220 ms
+104.20.107.99,IAD,North America,Ashburn,220 ms
+104.21.61.214,AMS,Europe,Amsterdam,220 ms
+104.27.100.241,IAD,North America,Ashburn,220 ms
+104.20.15.27,IAD,North America,Ashburn,220 ms
+104.27.62.59,IAD,North America,Ashburn,220 ms
+104.20.105.80,IAD,North America,Ashburn,220 ms
+104.21.122.84,AMS,Europe,Amsterdam,220 ms
+104.24.250.182,IAD,North America,Ashburn,220 ms
+104.20.13.81,IAD,North America,Ashburn,220 ms
+104.21.29.104,AMS,Europe,Amsterdam,220 ms
+104.24.54.173,IAD,North America,Ashburn,220 ms
+104.25.251.85,IAD,North America,Ashburn,220 ms
+104.25.247.163,IAD,North America,Ashburn,220 ms
+104.25.222.83,IAD,North America,Ashburn,220 ms
+104.27.35.219,IAD,North America,Ashburn,220 ms
+104.25.111.60,IAD,North America,Ashburn,220 ms
+104.24.80.111,IAD,North America,Ashburn,220 ms
+172.67.117.84,IAD,North America,Ashburn,220 ms
+172.67.30.213,IAD,North America,Ashburn,220 ms
+162.159.34.143,IAD,North America,Ashburn,220 ms
+104.20.204.50,IAD,North America,Ashburn,220 ms
+104.24.165.48,IAD,North America,Ashburn,220 ms
+104.27.104.166,IAD,North America,Ashburn,220 ms
+172.67.17.139,IAD,North America,Ashburn,220 ms
+172.67.55.68,IAD,North America,Ashburn,221 ms
+104.27.117.219,IAD,North America,Ashburn,221 ms
+172.67.202.7,AMS,Europe,Amsterdam,221 ms
+104.25.169.5,IAD,North America,Ashburn,221 ms
+104.24.18.227,IAD,North America,Ashburn,221 ms
+104.20.143.129,IAD,North America,Ashburn,221 ms
+172.67.22.197,IAD,North America,Ashburn,221 ms
+104.22.13.124,IAD,North America,Ashburn,221 ms
+104.23.131.9,IAD,North America,Ashburn,221 ms
+104.25.166.165,IAD,North America,Ashburn,221 ms
+104.24.191.162,IAD,North America,Ashburn,221 ms
+104.25.12.161,IAD,North America,Ashburn,221 ms
+104.21.86.186,AMS,Europe,Amsterdam,221 ms
+104.20.17.144,IAD,North America,Ashburn,221 ms
+104.23.132.233,IAD,North America,Ashburn,221 ms
+104.22.58.201,IAD,North America,Ashburn,221 ms
+198.41.212.194,IAD,North America,Ashburn,221 ms
+104.21.106.27,AMS,Europe,Amsterdam,221 ms
+104.25.156.19,IAD,North America,Ashburn,221 ms
+104.24.36.110,IAD,North America,Ashburn,221 ms
+104.22.45.55,IAD,North America,Ashburn,221 ms
+104.20.138.192,IAD,North America,Ashburn,221 ms
+104.24.76.161,IAD,North America,Ashburn,221 ms
+104.24.71.200,IAD,North America,Ashburn,221 ms
+104.20.102.37,IAD,North America,Ashburn,221 ms
+104.26.1.141,IAD,North America,Ashburn,221 ms
+104.23.130.220,IAD,North America,Ashburn,221 ms
+104.22.20.148,IAD,North America,Ashburn,221 ms
+104.22.22.167,IAD,North America,Ashburn,221 ms
+172.67.76.5,IAD,North America,Ashburn,221 ms
+104.27.48.50,IAD,North America,Ashburn,222 ms
+104.24.170.213,IAD,North America,Ashburn,222 ms
+172.67.34.202,IAD,North America,Ashburn,222 ms
+104.25.214.178,IAD,North America,Ashburn,222 ms
+104.20.145.101,IAD,North America,Ashburn,222 ms
+104.25.171.1,IAD,North America,Ashburn,222 ms
+172.67.49.108,IAD,North America,Ashburn,222 ms
+104.25.71.140,IAD,North America,Ashburn,222 ms
+104.24.62.74,IAD,North America,Ashburn,222 ms
+104.21.69.231,AMS,Europe,Amsterdam,222 ms
+172.67.177.164,AMS,Europe,Amsterdam,222 ms
+172.67.12.91,IAD,North America,Ashburn,222 ms
+104.24.192.188,IAD,North America,Ashburn,222 ms
+104.27.71.96,IAD,North America,Ashburn,222 ms
+104.20.90.197,IAD,North America,Ashburn,222 ms
+104.20.27.136,IAD,North America,Ashburn,222 ms
+104.25.10.48,IAD,North America,Ashburn,222 ms
+172.64.33.37,SJC,North America,San Jose,222 ms
+172.67.101.188,IAD,North America,Ashburn,222 ms
+104.24.70.210,IAD,North America,Ashburn,222 ms
+172.67.178.226,AMS,Europe,Amsterdam,222 ms
+104.21.78.29,AMS,Europe,Amsterdam,222 ms
+104.25.201.112,IAD,North America,Ashburn,222 ms
+104.20.152.208,IAD,North America,Ashburn,222 ms
+172.67.66.89,IAD,North America,Ashburn,223 ms
+104.21.193.17,AMS,Europe,Amsterdam,223 ms
+104.24.23.0,IAD,North America,Ashburn,223 ms
+104.27.85.6,IAD,North America,Ashburn,223 ms
+104.24.136.7,IAD,North America,Ashburn,223 ms
+104.21.124.222,AMS,Europe,Amsterdam,223 ms
+104.25.120.165,IAD,North America,Ashburn,223 ms
+172.67.77.135,IAD,North America,Ashburn,223 ms
+172.67.46.147,IAD,North America,Ashburn,223 ms
+104.25.164.49,IAD,North America,Ashburn,223 ms
+104.21.62.171,AMS,Europe,Amsterdam,223 ms
+104.27.116.213,IAD,North America,Ashburn,223 ms
+104.25.223.155,IAD,North America,Ashburn,223 ms
+104.25.62.158,IAD,North America,Ashburn,223 ms
+104.24.217.198,IAD,North America,Ashburn,223 ms
+104.25.3.135,IAD,North America,Ashburn,223 ms
+104.27.96.13,IAD,North America,Ashburn,223 ms
+104.20.139.255,IAD,North America,Ashburn,223 ms
+104.20.161.219,IAD,North America,Ashburn,223 ms
+104.25.80.205,IAD,North America,Ashburn,223 ms
+104.25.139.147,IAD,North America,Ashburn,223 ms
+104.20.62.166,IAD,North America,Ashburn,223 ms
+104.25.54.55,IAD,North America,Ashburn,223 ms
+104.25.53.35,IAD,North America,Ashburn,223 ms
+104.25.121.180,IAD,North America,Ashburn,223 ms
+104.24.231.124,IAD,North America,Ashburn,223 ms
+104.20.33.34,IAD,North America,Ashburn,223 ms
+104.24.213.54,IAD,North America,Ashburn,223 ms
+104.24.247.208,IAD,North America,Ashburn,223 ms
+104.24.6.215,IAD,North America,Ashburn,223 ms
+104.24.193.145,IAD,North America,Ashburn,223 ms
+104.25.202.1,IAD,North America,Ashburn,223 ms
+104.20.197.49,IAD,North America,Ashburn,224 ms
+104.20.44.199,IAD,North America,Ashburn,224 ms
+104.25.157.249,IAD,North America,Ashburn,224 ms
+104.25.6.6,IAD,North America,Ashburn,224 ms
+104.24.139.15,IAD,North America,Ashburn,224 ms
+104.27.37.0,IAD,North America,Ashburn,224 ms
+104.27.38.235,IAD,North America,Ashburn,224 ms
+172.67.89.253,IAD,North America,Ashburn,224 ms
+104.25.24.42,IAD,North America,Ashburn,224 ms
+104.27.9.121,IAD,North America,Ashburn,224 ms
+104.26.8.141,IAD,North America,Ashburn,224 ms
+104.26.2.127,IAD,North America,Ashburn,224 ms
+104.25.165.198,IAD,North America,Ashburn,224 ms
+104.25.26.26,IAD,North America,Ashburn,224 ms
+104.25.25.41,IAD,North America,Ashburn,224 ms
+104.25.28.37,IAD,North America,Ashburn,224 ms
+104.25.27.32,IAD,North America,Ashburn,224 ms
+104.24.158.79,IAD,North America,Ashburn,224 ms
+104.25.160.206,IAD,North America,Ashburn,224 ms
+104.21.70.211,AMS,Europe,Amsterdam,224 ms
+104.20.119.74,IAD,North America,Ashburn,224 ms
+104.25.123.131,IAD,North America,Ashburn,224 ms
+104.23.135.88,IAD,North America,Ashburn,224 ms
+104.22.6.113,IAD,North America,Ashburn,224 ms
+104.21.88.209,AMS,Europe,Amsterdam,224 ms
+104.21.216.5,AMS,Europe,Amsterdam,224 ms
+104.25.9.255,IAD,North America,Ashburn,224 ms
+104.27.114.131,IAD,North America,Ashburn,224 ms
+104.24.34.40,IAD,North America,Ashburn,224 ms
+104.24.197.172,IAD,North America,Ashburn,224 ms
+104.20.172.152,IAD,North America,Ashburn,224 ms
+104.21.104.12,AMS,Europe,Amsterdam,224 ms
+104.21.231.224,EWR,North America,Newark,224 ms
+172.67.44.4,IAD,North America,Ashburn,224 ms
+104.25.77.75,IAD,North America,Ashburn,224 ms
+104.24.42.217,IAD,North America,Ashburn,225 ms
+104.24.178.178,IAD,North America,Ashburn,225 ms
+104.24.39.106,IAD,North America,Ashburn,225 ms
+104.24.153.119,IAD,North America,Ashburn,225 ms
+104.20.96.1,IAD,North America,Ashburn,225 ms
+104.25.161.99,IAD,North America,Ashburn,225 ms
+104.27.73.17,IAD,North America,Ashburn,225 ms
+104.21.215.101,AMS,Europe,Amsterdam,225 ms
+104.24.15.137,IAD,North America,Ashburn,225 ms
+104.20.236.182,IAD,North America,Ashburn,225 ms
+172.67.48.78,IAD,North America,Ashburn,225 ms
+162.159.35.16,IAD,North America,Ashburn,225 ms
+104.20.184.102,IAD,North America,Ashburn,225 ms
+104.21.89.12,AMS,Europe,Amsterdam,225 ms
+104.20.38.116,IAD,North America,Ashburn,225 ms
+104.24.209.165,IAD,North America,Ashburn,225 ms
+104.24.204.136,IAD,North America,Ashburn,225 ms
+172.67.25.209,IAD,North America,Ashburn,225 ms
+172.67.10.52,IAD,North America,Ashburn,225 ms
+104.25.248.163,IAD,North America,Ashburn,225 ms
+104.25.68.190,IAD,North America,Ashburn,225 ms
+104.24.79.242,IAD,North America,Ashburn,225 ms
+172.67.43.109,IAD,North America,Ashburn,225 ms
+104.24.216.156,IAD,North America,Ashburn,225 ms
+162.159.9.230,SJC,North America,San Jose,225 ms
+172.67.158.206,AMS,Europe,Amsterdam,225 ms
+172.67.229.193,AMS,Europe,Amsterdam,225 ms
+104.27.112.54,IAD,North America,Ashburn,225 ms
+172.67.201.224,AMS,Europe,Amsterdam,226 ms
+104.21.105.123,AMS,Europe,Amsterdam,226 ms
+172.67.152.214,AMS,Europe,Amsterdam,226 ms
+172.67.230.140,AMS,Europe,Amsterdam,226 ms
+172.67.114.17,IAD,North America,Ashburn,226 ms
+104.20.106.118,IAD,North America,Ashburn,226 ms
+104.20.186.114,IAD,North America,Ashburn,226 ms
+104.25.106.18,IAD,North America,Ashburn,226 ms
+172.67.133.104,AMS,Europe,Amsterdam,226 ms
+104.20.121.67,IAD,North America,Ashburn,226 ms
+104.20.255.201,IAD,North America,Ashburn,226 ms
+104.20.67.145,IAD,North America,Ashburn,226 ms
+104.25.190.36,IAD,North America,Ashburn,226 ms
+172.67.36.157,IAD,North America,Ashburn,226 ms
+104.21.36.171,AMS,Europe,Amsterdam,226 ms
+104.24.183.75,IAD,North America,Ashburn,226 ms
+104.25.55.107,IAD,North America,Ashburn,226 ms
+104.25.32.32,IAD,North America,Ashburn,226 ms
+104.21.26.249,AMS,Europe,Amsterdam,226 ms
+172.67.119.233,IAD,North America,Ashburn,226 ms
+104.26.5.251,IAD,North America,Ashburn,226 ms
+104.25.153.162,IAD,North America,Ashburn,226 ms
+172.67.42.87,IAD,North America,Ashburn,226 ms
+104.25.13.27,IAD,North America,Ashburn,226 ms
+104.20.171.19,IAD,North America,Ashburn,227 ms
+104.27.21.5,IAD,North America,Ashburn,227 ms
+104.27.20.209,IAD,North America,Ashburn,227 ms
+104.24.87.83,IAD,North America,Ashburn,227 ms
+104.24.61.85,IAD,North America,Ashburn,227 ms
+104.24.60.240,IAD,North America,Ashburn,227 ms
+104.24.59.74,IAD,North America,Ashburn,227 ms
+104.20.156.21,IAD,North America,Ashburn,227 ms
+104.20.103.251,IAD,North America,Ashburn,227 ms
+104.20.98.188,IAD,North America,Ashburn,227 ms
+104.20.200.103,IAD,North America,Ashburn,227 ms
+104.20.199.248,IAD,North America,Ashburn,227 ms
+104.27.32.101,IAD,North America,Ashburn,227 ms
+104.27.33.198,IAD,North America,Ashburn,227 ms
+104.27.29.211,IAD,North America,Ashburn,227 ms
+172.67.45.221,IAD,North America,Ashburn,227 ms
+104.27.87.92,IAD,North America,Ashburn,227 ms
+104.24.68.35,IAD,North America,Ashburn,227 ms
+104.26.3.215,IAD,North America,Ashburn,227 ms
+104.25.168.194,IAD,North America,Ashburn,227 ms
+172.67.41.25,IAD,North America,Ashburn,227 ms
+172.67.125.27,IAD,North America,Ashburn,227 ms
+104.21.46.3,AMS,Europe,Amsterdam,227 ms
+104.20.205.5,IAD,North America,Ashburn,227 ms
+104.20.185.224,IAD,North America,Ashburn,227 ms
+104.27.203.155,IAD,North America,Ashburn,227 ms
+104.22.51.218,IAD,North America,Ashburn,227 ms
+104.20.4.38,IAD,North America,Ashburn,227 ms
+104.20.196.251,IAD,North America,Ashburn,227 ms
+104.24.138.29,IAD,North America,Ashburn,227 ms
+104.25.86.69,IAD,North America,Ashburn,227 ms
+104.20.252.70,IAD,North America,Ashburn,227 ms
+104.27.7.34,IAD,North America,Ashburn,227 ms
+104.20.224.186,IAD,North America,Ashburn,227 ms
+104.22.71.1,IAD,North America,Ashburn,227 ms
+104.22.72.100,IAD,North America,Ashburn,227 ms
+104.20.202.76,IAD,North America,Ashburn,227 ms
+172.67.65.172,IAD,North America,Ashburn,227 ms
+104.25.253.254,IAD,North America,Ashburn,227 ms
+172.67.9.64,IAD,North America,Ashburn,227 ms
+104.20.22.217,IAD,North America,Ashburn,227 ms
+172.67.24.243,IAD,North America,Ashburn,227 ms
+104.20.183.118,IAD,North America,Ashburn,227 ms
+104.20.229.137,IAD,North America,Ashburn,228 ms
+172.67.92.119,IAD,North America,Ashburn,228 ms
+104.20.179.202,IAD,North America,Ashburn,228 ms
+104.20.69.231,IAD,North America,Ashburn,228 ms
+104.20.182.158,IAD,North America,Ashburn,228 ms
+104.22.53.238,IAD,North America,Ashburn,228 ms
+104.25.241.25,IAD,North America,Ashburn,228 ms
+104.24.241.55,IAD,North America,Ashburn,228 ms
+104.22.19.237,IAD,North America,Ashburn,228 ms
+104.20.75.97,IAD,North America,Ashburn,228 ms
+104.20.247.14,IAD,North America,Ashburn,228 ms
+172.67.233.150,AMS,Europe,Amsterdam,228 ms
+104.25.134.124,IAD,North America,Ashburn,228 ms
+104.20.235.192,IAD,North America,Ashburn,228 ms
+104.23.126.153,IAD,North America,Ashburn,228 ms
+172.67.174.224,AMS,Europe,Amsterdam,228 ms
+172.67.29.23,IAD,North America,Ashburn,228 ms
+104.25.221.34,IAD,North America,Ashburn,228 ms
+104.27.55.239,IAD,North America,Ashburn,228 ms
+104.27.1.52,IAD,North America,Ashburn,228 ms
+104.27.118.5,IAD,North America,Ashburn,228 ms
+172.67.88.173,IAD,North America,Ashburn,228 ms
+104.25.116.140,IAD,North America,Ashburn,228 ms
+104.21.238.162,EWR,North America,Newark,228 ms
+104.24.20.141,IAD,North America,Ashburn,228 ms
+104.25.220.65,IAD,North America,Ashburn,228 ms
+104.21.57.8,AMS,Europe,Amsterdam,228 ms
+104.24.174.34,IAD,North America,Ashburn,228 ms
+104.24.52.30,IAD,North America,Ashburn,228 ms
+104.20.234.34,IAD,North America,Ashburn,229 ms
+172.67.224.66,AMS,Europe,Amsterdam,229 ms
+104.20.64.103,IAD,North America,Ashburn,229 ms
+172.67.132.187,AMS,Europe,Amsterdam,229 ms
+104.22.27.129,IAD,North America,Ashburn,229 ms
+104.20.243.130,IAD,North America,Ashburn,229 ms
+104.20.150.251,IAD,North America,Ashburn,229 ms
+104.25.66.187,IAD,North America,Ashburn,229 ms
+104.25.56.187,IAD,North America,Ashburn,229 ms
+104.24.229.141,IAD,North America,Ashburn,229 ms
+104.20.35.239,IAD,North America,Ashburn,229 ms
+104.20.34.80,IAD,North America,Ashburn,229 ms
+104.25.67.201,IAD,North America,Ashburn,229 ms
+104.21.103.109,AMS,Europe,Amsterdam,229 ms
+104.24.26.54,IAD,North America,Ashburn,229 ms
+172.67.116.76,IAD,North America,Ashburn,229 ms
+104.20.11.27,IAD,North America,Ashburn,229 ms
+104.26.7.129,IAD,North America,Ashburn,229 ms
+104.20.187.157,IAD,North America,Ashburn,229 ms
+104.25.87.148,IAD,North America,Ashburn,229 ms
+104.25.154.214,IAD,North America,Ashburn,229 ms
+104.25.52.90,IAD,North America,Ashburn,229 ms
+104.25.84.229,IAD,North America,Ashburn,229 ms
+104.20.99.32,IAD,North America,Ashburn,229 ms
+172.67.240.2,AMS,Europe,Amsterdam,230 ms
+104.21.228.252,EWR,North America,Newark,230 ms
+172.67.128.150,AMS,Europe,Amsterdam,230 ms
+104.20.118.103,IAD,North America,Ashburn,230 ms
+104.24.240.84,IAD,North America,Ashburn,230 ms
+104.27.72.53,IAD,North America,Ashburn,230 ms
+104.27.30.106,IAD,North America,Ashburn,230 ms
+104.27.54.182,IAD,North America,Ashburn,230 ms
+172.67.107.243,IAD,North America,Ashburn,230 ms
+104.25.207.255,IAD,North America,Ashburn,230 ms
+104.25.103.167,IAD,North America,Ashburn,230 ms
+104.20.20.89,IAD,North America,Ashburn,230 ms
+104.21.101.181,AMS,Europe,Amsterdam,230 ms
+104.20.1.155,IAD,North America,Ashburn,230 ms
+104.24.38.55,IAD,North America,Ashburn,230 ms
+104.25.177.156,IAD,North America,Ashburn,230 ms
+104.21.92.101,AMS,Europe,Amsterdam,230 ms
+104.20.65.82,IAD,North America,Ashburn,230 ms
+104.25.51.42,IAD,North America,Ashburn,230 ms
+104.22.54.124,IAD,North America,Ashburn,230 ms
+104.25.30.94,IAD,North America,Ashburn,230 ms
+104.20.57.28,IAD,North America,Ashburn,230 ms
+104.24.41.80,IAD,North America,Ashburn,231 ms
+104.24.45.103,IAD,North America,Ashburn,231 ms
+172.67.50.83,IAD,North America,Ashburn,231 ms
+104.18.222.15,SJC,North America,San Jose,231 ms
+104.20.238.111,IAD,North America,Ashburn,231 ms
+104.24.2.231,IAD,North America,Ashburn,231 ms
+104.27.109.112,IAD,North America,Ashburn,231 ms
+172.67.218.118,AMS,Europe,Amsterdam,231 ms
+104.22.39.201,IAD,North America,Ashburn,231 ms
+104.20.81.27,IAD,North America,Ashburn,231 ms
+104.20.23.13,IAD,North America,Ashburn,231 ms
+104.25.74.153,IAD,North America,Ashburn,231 ms
+104.22.21.22,IAD,North America,Ashburn,231 ms
+104.20.115.168,IAD,North America,Ashburn,231 ms
+104.24.21.28,IAD,North America,Ashburn,231 ms
+104.24.203.148,IAD,North America,Ashburn,231 ms
+104.24.233.79,IAD,North America,Ashburn,231 ms
+172.67.150.236,AMS,Europe,Amsterdam,231 ms
+104.20.101.135,IAD,North America,Ashburn,231 ms
+104.24.5.84,IAD,North America,Ashburn,231 ms
+104.24.12.72,IAD,North America,Ashburn,232 ms
+104.24.58.176,IAD,North America,Ashburn,232 ms
+172.67.123.162,IAD,North America,Ashburn,232 ms
+104.22.56.38,IAD,North America,Ashburn,232 ms
+172.67.70.120,IAD,North America,Ashburn,232 ms
+104.22.3.56,IAD,North America,Ashburn,232 ms
+104.22.2.52,IAD,North America,Ashburn,232 ms
+104.20.177.247,IAD,North America,Ashburn,232 ms
+104.25.159.249,IAD,North America,Ashburn,232 ms
+104.20.194.67,IAD,North America,Ashburn,232 ms
+104.22.68.21,IAD,North America,Ashburn,232 ms
+104.20.53.134,IAD,North America,Ashburn,232 ms
+104.24.173.133,IAD,North America,Ashburn,232 ms
+172.67.14.133,IAD,North America,Ashburn,232 ms
+104.25.212.213,IAD,North America,Ashburn,232 ms
+172.67.103.242,IAD,North America,Ashburn,232 ms
+104.27.111.252,IAD,North America,Ashburn,232 ms
+104.20.230.123,IAD,North America,Ashburn,232 ms
+104.27.4.152,IAD,North America,Ashburn,232 ms
+104.25.239.75,IAD,North America,Ashburn,232 ms
+104.27.69.61,IAD,North America,Ashburn,232 ms
+104.24.31.116,IAD,North America,Ashburn,232 ms
+104.21.123.240,AMS,Europe,Amsterdam,232 ms
+104.25.175.63,IAD,North America,Ashburn,232 ms
+104.21.90.123,AMS,Europe,Amsterdam,232 ms
+104.22.7.140,IAD,North America,Ashburn,232 ms
+104.25.108.29,IAD,North America,Ashburn,232 ms
+104.20.227.189,IAD,North America,Ashburn,232 ms
+104.20.198.180,IAD,North America,Ashburn,232 ms
+104.20.233.54,IAD,North America,Ashburn,232 ms
+104.24.78.106,IAD,North America,Ashburn,232 ms
+172.67.86.128,IAD,North America,Ashburn,232 ms
+104.24.242.204,IAD,North America,Ashburn,232 ms
+104.20.117.174,IAD,North America,Ashburn,232 ms
+104.20.160.167,IAD,North America,Ashburn,232 ms
+104.27.81.172,IAD,North America,Ashburn,232 ms
+172.67.11.46,IAD,North America,Ashburn,233 ms
+104.20.72.234,IAD,North America,Ashburn,233 ms
+104.25.102.57,IAD,North America,Ashburn,233 ms
+104.21.31.158,AMS,Europe,Amsterdam,233 ms
+104.20.214.134,IAD,North America,Ashburn,233 ms
+104.26.0.56,IAD,North America,Ashburn,233 ms
+104.20.244.178,IAD,North America,Ashburn,233 ms
+104.25.83.234,IAD,North America,Ashburn,233 ms
+104.24.239.33,IAD,North America,Ashburn,233 ms
+104.20.87.133,IAD,North America,Ashburn,233 ms
+104.24.135.223,IAD,North America,Ashburn,233 ms
+104.24.51.191,IAD,North America,Ashburn,233 ms
+104.27.63.118,IAD,North America,Ashburn,233 ms
+104.23.124.136,IAD,North America,Ashburn,233 ms
+104.23.125.172,IAD,North America,Ashburn,233 ms
+172.67.151.207,AMS,Europe,Amsterdam,233 ms
+104.25.138.161,IAD,North America,Ashburn,233 ms
+104.20.164.171,IAD,North America,Ashburn,233 ms
+104.27.94.107,IAD,North America,Ashburn,233 ms
+104.24.245.252,IAD,North America,Ashburn,233 ms
+104.24.25.174,IAD,North America,Ashburn,233 ms
+104.27.82.115,IAD,North America,Ashburn,233 ms
+172.67.104.206,IAD,North America,Ashburn,234 ms
+104.20.154.141,IAD,North America,Ashburn,234 ms
+104.21.208.203,AMS,Europe,Amsterdam,234 ms
+104.24.180.81,IAD,North America,Ashburn,234 ms
+104.25.107.220,IAD,North America,Ashburn,234 ms
+104.25.250.78,IAD,North America,Ashburn,234 ms
+172.67.159.228,AMS,Europe,Amsterdam,234 ms
+172.67.91.182,IAD,North America,Ashburn,234 ms
+104.20.221.4,IAD,North America,Ashburn,234 ms
+104.20.178.81,IAD,North America,Ashburn,234 ms
+104.24.255.97,IAD,North America,Ashburn,234 ms
+104.25.132.26,IAD,North America,Ashburn,234 ms
+172.67.7.30,IAD,North America,Ashburn,234 ms
+104.25.238.237,IAD,North America,Ashburn,234 ms
+104.24.246.107,IAD,North America,Ashburn,234 ms
+104.25.69.199,IAD,North America,Ashburn,234 ms
+104.27.123.110,IAD,North America,Ashburn,234 ms
+104.27.127.249,IAD,North America,Ashburn,234 ms
+104.20.41.15,IAD,North America,Ashburn,234 ms
+104.25.195.120,IAD,North America,Ashburn,234 ms
+172.67.98.150,IAD,North America,Ashburn,234 ms
+104.25.117.57,IAD,North America,Ashburn,234 ms
+104.20.55.52,IAD,North America,Ashburn,234 ms
+172.67.179.143,AMS,Europe,Amsterdam,234 ms
+104.25.158.60,IAD,North America,Ashburn,234 ms
+104.20.32.18,IAD,North America,Ashburn,234 ms
+172.64.78.66,ORD,North America,Chicago,234 ms
+172.67.131.11,AMS,Europe,Amsterdam,234 ms
+104.25.113.65,IAD,North America,Ashburn,234 ms
+104.20.113.86,IAD,North America,Ashburn,234 ms
+104.25.92.130,IAD,North America,Ashburn,234 ms
+104.23.141.190,IAD,North America,Ashburn,235 ms
+172.67.73.202,IAD,North America,Ashburn,235 ms
+104.25.225.117,IAD,North America,Ashburn,235 ms
+104.20.104.171,IAD,North America,Ashburn,235 ms
+104.22.42.230,IAD,North America,Ashburn,235 ms
+104.22.16.78,IAD,North America,Ashburn,235 ms
+104.27.196.84,IAD,North America,Ashburn,235 ms
+104.23.129.220,IAD,North America,Ashburn,235 ms
+104.20.180.207,IAD,North America,Ashburn,235 ms
+104.20.211.29,IAD,North America,Ashburn,235 ms
+104.24.11.247,IAD,North America,Ashburn,235 ms
+104.27.83.33,IAD,North America,Ashburn,235 ms
+172.67.112.81,IAD,North America,Ashburn,235 ms
+172.67.162.203,AMS,Europe,Amsterdam,235 ms
+104.27.119.161,IAD,North America,Ashburn,235 ms
+104.20.24.0,IAD,North America,Ashburn,235 ms
+104.25.249.55,IAD,North America,Ashburn,235 ms
+172.67.27.117,IAD,North America,Ashburn,235 ms
+104.25.226.175,IAD,North America,Ashburn,235 ms
+104.27.195.7,IAD,North America,Ashburn,235 ms
+104.25.82.190,IAD,North America,Ashburn,235 ms
+104.20.7.201,IAD,North America,Ashburn,235 ms
+104.24.81.3,IAD,North America,Ashburn,235 ms
+172.67.155.84,AMS,Europe,Amsterdam,235 ms
+104.25.227.240,IAD,North America,Ashburn,235 ms
+172.67.154.171,AMS,Europe,Amsterdam,235 ms
+104.24.133.13,IAD,North America,Ashburn,235 ms
+104.25.133.86,IAD,North America,Ashburn,236 ms
+104.20.125.181,IAD,North America,Ashburn,236 ms
+172.67.245.54,AMS,Europe,Amsterdam,236 ms
+104.21.212.245,AMS,Europe,Amsterdam,236 ms
+172.67.58.25,IAD,North America,Ashburn,236 ms
+172.67.62.237,IAD,North America,Ashburn,236 ms
+172.67.60.45,IAD,North America,Ashburn,236 ms
+104.25.75.87,IAD,North America,Ashburn,236 ms
+104.25.49.255,IAD,North America,Ashburn,236 ms
+104.27.99.174,IAD,North America,Ashburn,236 ms
+104.24.85.101,IAD,North America,Ashburn,236 ms
+104.25.57.63,IAD,North America,Ashburn,236 ms
+104.20.159.144,IAD,North America,Ashburn,236 ms
+104.20.181.63,IAD,North America,Ashburn,236 ms
+104.23.113.98,IAD,North America,Ashburn,236 ms
+172.67.225.158,AMS,Europe,Amsterdam,236 ms
+104.20.239.211,IAD,North America,Ashburn,236 ms
+104.24.254.46,IAD,North America,Ashburn,236 ms
+104.27.92.8,IAD,North America,Ashburn,236 ms
+104.25.142.132,IAD,North America,Ashburn,236 ms
+104.20.100.226,IAD,North America,Ashburn,236 ms
+104.25.95.171,IAD,North America,Ashburn,236 ms
+104.17.50.224,SJC,North America,San Jose,236 ms
+104.22.38.180,IAD,North America,Ashburn,236 ms
+104.27.22.70,IAD,North America,Ashburn,236 ms
+104.20.127.141,IAD,North America,Ashburn,236 ms
+104.24.132.173,IAD,North America,Ashburn,236 ms
+104.27.107.72,IAD,North America,Ashburn,236 ms
+104.20.168.211,IAD,North America,Ashburn,236 ms
+104.20.240.178,IAD,North America,Ashburn,237 ms
+172.67.71.7,IAD,North America,Ashburn,237 ms
+104.27.194.56,IAD,North America,Ashburn,237 ms
+104.24.90.31,IAD,North America,Ashburn,237 ms
+104.20.36.121,IAD,North America,Ashburn,237 ms
+104.24.187.87,IAD,North America,Ashburn,237 ms
+104.27.202.189,IAD,North America,Ashburn,237 ms
+104.20.141.33,IAD,North America,Ashburn,237 ms
+104.24.201.143,IAD,North America,Ashburn,237 ms
+104.24.69.139,IAD,North America,Ashburn,237 ms
+104.25.47.55,IAD,North America,Ashburn,237 ms
+104.20.163.111,IAD,North America,Ashburn,237 ms
+104.24.94.124,IAD,North America,Ashburn,237 ms
+104.25.235.151,IAD,North America,Ashburn,237 ms
+104.20.153.225,IAD,North America,Ashburn,237 ms
+104.27.6.215,IAD,North America,Ashburn,237 ms
+104.25.14.68,IAD,North America,Ashburn,237 ms
+104.22.5.214,IAD,North America,Ashburn,237 ms
+104.20.21.114,IAD,North America,Ashburn,237 ms
+104.20.158.71,IAD,North America,Ashburn,237 ms
+104.20.83.161,IAD,North America,Ashburn,237 ms
+104.18.213.1,SJC,North America,San Jose,237 ms
+104.20.40.208,IAD,North America,Ashburn,237 ms
+104.24.171.18,IAD,North America,Ashburn,237 ms
+172.67.59.242,IAD,North America,Ashburn,237 ms
+172.67.61.243,IAD,North America,Ashburn,237 ms
+104.24.252.108,IAD,North America,Ashburn,237 ms
+104.20.124.168,IAD,North America,Ashburn,237 ms
+104.20.249.233,IAD,North America,Ashburn,237 ms
+104.24.253.46,IAD,North America,Ashburn,237 ms
+104.20.208.117,IAD,North America,Ashburn,237 ms
+104.19.254.4,DFW,North America,Dallas,237 ms
+104.25.29.231,IAD,North America,Ashburn,237 ms
+104.25.176.15,IAD,North America,Ashburn,237 ms
+104.24.86.248,IAD,North America,Ashburn,237 ms
+104.21.93.88,AMS,Europe,Amsterdam,237 ms
+104.25.34.4,IAD,North America,Ashburn,237 ms
+104.21.71.63,AMS,Europe,Amsterdam,237 ms
+104.20.122.49,IAD,North America,Ashburn,237 ms
+104.25.112.72,IAD,North America,Ashburn,238 ms
+172.67.228.197,AMS,Europe,Amsterdam,238 ms
+104.21.41.118,AMS,Europe,Amsterdam,238 ms
+104.24.147.73,IAD,North America,Ashburn,238 ms
+104.27.60.57,IAD,North America,Ashburn,238 ms
+104.24.77.229,IAD,North America,Ashburn,238 ms
+104.20.116.232,IAD,North America,Ashburn,238 ms
+104.27.74.239,IAD,North America,Ashburn,238 ms
+104.20.29.232,IAD,North America,Ashburn,238 ms
+104.24.188.164,IAD,North America,Ashburn,238 ms
+104.25.81.56,IAD,North America,Ashburn,238 ms
+104.25.64.165,IAD,North America,Ashburn,238 ms
+104.24.16.247,IAD,North America,Ashburn,238 ms
+104.24.49.70,IAD,North America,Ashburn,238 ms
+104.25.186.92,IAD,North America,Ashburn,238 ms
+104.23.134.83,IAD,North America,Ashburn,238 ms
+104.20.189.219,IAD,North America,Ashburn,238 ms
+104.20.84.45,IAD,North America,Ashburn,238 ms
+172.67.21.194,IAD,North America,Ashburn,238 ms
+172.67.20.141,IAD,North America,Ashburn,238 ms
+104.24.67.237,IAD,North America,Ashburn,238 ms
+104.20.9.123,IAD,North America,Ashburn,238 ms
+104.24.13.124,IAD,North America,Ashburn,238 ms
+104.24.219.36,IAD,North America,Ashburn,238 ms
+104.20.173.230,IAD,North America,Ashburn,238 ms
+104.24.163.63,IAD,North America,Ashburn,238 ms
+104.24.164.220,IAD,North America,Ashburn,238 ms
+104.24.161.221,IAD,North America,Ashburn,238 ms
+104.22.66.99,IAD,North America,Ashburn,238 ms
+104.22.49.111,IAD,North America,Ashburn,238 ms
+104.27.89.65,IAD,North America,Ashburn,238 ms
+104.25.216.17,IAD,North America,Ashburn,238 ms
+104.17.152.141,SJC,North America,San Jose,238 ms
+104.25.197.198,IAD,North America,Ashburn,238 ms
+104.21.237.29,EWR,North America,Newark,238 ms
+104.19.135.179,DFW,North America,Dallas,238 ms
+104.24.189.19,IAD,North America,Ashburn,238 ms
+172.67.207.238,AMS,Europe,Amsterdam,238 ms
+172.67.56.3,IAD,North America,Ashburn,238 ms
+104.25.228.100,IAD,North America,Ashburn,238 ms
+104.24.157.19,IAD,North America,Ashburn,238 ms
+172.67.111.27,IAD,North America,Ashburn,238 ms
+104.25.150.106,IAD,North America,Ashburn,238 ms
+104.25.193.180,IAD,North America,Ashburn,238 ms
+104.20.175.22,IAD,North America,Ashburn,238 ms
+104.25.135.48,IAD,North America,Ashburn,238 ms
+104.25.218.66,IAD,North America,Ashburn,238 ms
+104.25.148.46,IAD,North America,Ashburn,238 ms
+104.27.84.146,IAD,North America,Ashburn,238 ms
+104.24.215.216,IAD,North America,Ashburn,239 ms
+172.67.134.11,AMS,Europe,Amsterdam,239 ms
+104.24.145.100,IAD,North America,Ashburn,239 ms
+104.24.144.54,IAD,North America,Ashburn,239 ms
+104.27.198.209,IAD,North America,Ashburn,239 ms
+104.27.192.194,IAD,North America,Ashburn,239 ms
+104.20.220.157,IAD,North America,Ashburn,239 ms
+104.27.59.160,IAD,North America,Ashburn,239 ms
+104.27.58.184,IAD,North America,Ashburn,239 ms
+104.24.225.249,IAD,North America,Ashburn,239 ms
+104.24.226.5,IAD,North America,Ashburn,239 ms
+104.25.16.119,IAD,North America,Ashburn,239 ms
+104.24.235.233,IAD,North America,Ashburn,239 ms
+104.23.140.98,IAD,North America,Ashburn,239 ms
+104.21.120.224,AMS,Europe,Amsterdam,239 ms
+104.22.37.249,IAD,North America,Ashburn,239 ms
+172.67.69.217,IAD,North America,Ashburn,239 ms
+104.27.103.138,IAD,North America,Ashburn,239 ms
+104.27.98.173,IAD,North America,Ashburn,239 ms
+104.25.204.23,IAD,North America,Ashburn,239 ms
+104.21.28.140,AMS,Europe,Amsterdam,239 ms
+104.20.58.171,IAD,North America,Ashburn,239 ms
+104.24.10.121,IAD,North America,Ashburn,239 ms
+104.24.155.175,IAD,North America,Ashburn,239 ms
+172.67.52.188,IAD,North America,Ashburn,239 ms
+104.25.78.108,IAD,North America,Ashburn,239 ms
+104.20.218.39,IAD,North America,Ashburn,239 ms
+104.24.166.233,IAD,North America,Ashburn,239 ms
+172.67.15.249,IAD,North America,Ashburn,239 ms
+104.27.88.254,IAD,North America,Ashburn,239 ms
+104.20.251.240,IAD,North America,Ashburn,239 ms
+104.23.121.222,IAD,North America,Ashburn,239 ms
+172.67.67.159,IAD,North America,Ashburn,239 ms
+172.67.13.82,IAD,North America,Ashburn,239 ms
+104.25.119.238,IAD,North America,Ashburn,239 ms
+104.27.115.89,IAD,North America,Ashburn,239 ms
+104.24.72.86,IAD,North America,Ashburn,239 ms
+104.26.12.181,IAD,North America,Ashburn,239 ms
+104.24.196.62,IAD,North America,Ashburn,239 ms
+104.26.13.199,IAD,North America,Ashburn,239 ms
+172.67.85.51,IAD,North America,Ashburn,239 ms
+104.24.237.105,IAD,North America,Ashburn,239 ms
+104.24.236.44,IAD,North America,Ashburn,239 ms
+104.24.142.70,IAD,North America,Ashburn,239 ms
+104.20.45.254,IAD,North America,Ashburn,239 ms
+172.67.216.59,AMS,Europe,Amsterdam,239 ms
+104.20.166.157,IAD,North America,Ashburn,239 ms
+104.25.129.83,IAD,North America,Ashburn,239 ms
+104.25.127.124,IAD,North America,Ashburn,239 ms
+172.67.196.108,AMS,Europe,Amsterdam,239 ms
+104.25.147.115,IAD,North America,Ashburn,239 ms
+104.21.63.243,AMS,Europe,Amsterdam,239 ms
+104.24.93.88,IAD,North America,Ashburn,239 ms
+104.27.124.158,IAD,North America,Ashburn,239 ms
+104.27.126.55,IAD,North America,Ashburn,239 ms
+104.20.85.115,IAD,North America,Ashburn,239 ms
+104.20.16.90,IAD,North America,Ashburn,240 ms
+172.67.8.134,IAD,North America,Ashburn,240 ms
+172.67.81.204,IAD,North America,Ashburn,240 ms
+172.67.80.50,IAD,North America,Ashburn,240 ms
+172.67.105.213,IAD,North America,Ashburn,240 ms
+104.20.228.235,IAD,North America,Ashburn,240 ms
+104.27.65.111,IAD,North America,Ashburn,240 ms
+104.27.206.29,IAD,North America,Ashburn,240 ms
+104.27.205.230,IAD,North America,Ashburn,240 ms
+172.67.147.18,AMS,Europe,Amsterdam,240 ms
+104.27.80.213,IAD,North America,Ashburn,240 ms
+104.22.74.192,IAD,North America,Ashburn,240 ms
+104.25.163.27,IAD,North America,Ashburn,240 ms
+104.20.128.49,IAD,North America,Ashburn,240 ms
+104.25.155.96,IAD,North America,Ashburn,240 ms
+172.67.113.82,IAD,North America,Ashburn,240 ms
+104.27.64.206,IAD,North America,Ashburn,240 ms
+104.25.88.57,IAD,North America,Ashburn,240 ms
+104.25.213.12,IAD,North America,Ashburn,240 ms
+172.67.166.178,AMS,Europe,Amsterdam,240 ms
+172.67.165.239,AMS,Europe,Amsterdam,240 ms
+104.25.206.211,IAD,North America,Ashburn,240 ms
+104.25.203.134,IAD,North America,Ashburn,240 ms
+104.22.79.135,IAD,North America,Ashburn,240 ms
+172.67.2.145,IAD,North America,Ashburn,240 ms
+172.67.4.125,IAD,North America,Ashburn,240 ms
+172.67.198.91,AMS,Europe,Amsterdam,240 ms
+172.67.192.164,AMS,Europe,Amsterdam,240 ms
+104.20.10.155,IAD,North America,Ashburn,240 ms
+104.25.61.181,IAD,North America,Ashburn,240 ms
+104.20.93.159,IAD,North America,Ashburn,240 ms
+104.20.28.142,IAD,North America,Ashburn,240 ms
+104.21.96.82,AMS,Europe,Amsterdam,240 ms
+104.20.76.46,IAD,North America,Ashburn,240 ms
+104.24.92.41,IAD,North America,Ashburn,240 ms
+104.20.146.62,IAD,North America,Ashburn,240 ms
+104.25.63.161,IAD,North America,Ashburn,240 ms
+172.67.32.154,IAD,North America,Ashburn,240 ms
+104.27.95.238,IAD,North America,Ashburn,240 ms
+172.67.238.139,AMS,Europe,Amsterdam,240 ms
+104.24.141.4,IAD,North America,Ashburn,240 ms
+172.67.193.188,AMS,Europe,Amsterdam,240 ms
+104.26.9.50,IAD,North America,Ashburn,240 ms
+104.25.130.252,IAD,North America,Ashburn,241 ms
+104.25.79.92,IAD,North America,Ashburn,241 ms
+104.27.199.165,IAD,North America,Ashburn,241 ms
+172.67.127.34,IAD,North America,Ashburn,241 ms
+104.21.9.168,AMS,Europe,Amsterdam,241 ms
+104.25.21.202,IAD,North America,Ashburn,241 ms
+104.25.19.206,IAD,North America,Ashburn,241 ms
+172.67.110.218,IAD,North America,Ashburn,241 ms
+172.67.109.141,IAD,North America,Ashburn,241 ms
+172.67.93.72,IAD,North America,Ashburn,241 ms
+104.27.39.79,IAD,North America,Ashburn,241 ms
+104.27.43.22,IAD,North America,Ashburn,241 ms
+104.27.49.2,IAD,North America,Ashburn,241 ms
+104.27.44.214,IAD,North America,Ashburn,241 ms
+104.20.225.25,IAD,North America,Ashburn,241 ms
+104.25.58.220,IAD,North America,Ashburn,241 ms
+172.67.75.105,IAD,North America,Ashburn,241 ms
+104.23.137.129,IAD,North America,Ashburn,241 ms
+104.20.245.233,IAD,North America,Ashburn,241 ms
+104.20.2.202,IAD,North America,Ashburn,241 ms
+104.25.48.215,IAD,North America,Ashburn,241 ms
+172.67.95.211,IAD,North America,Ashburn,241 ms
+104.25.104.139,IAD,North America,Ashburn,241 ms
+104.25.192.67,IAD,North America,Ashburn,241 ms
+104.20.112.226,IAD,North America,Ashburn,241 ms
+104.25.209.141,IAD,North America,Ashburn,241 ms
+104.25.143.165,IAD,North America,Ashburn,241 ms
+104.25.7.226,IAD,North America,Ashburn,241 ms
+172.67.214.55,AMS,Europe,Amsterdam,241 ms
+172.67.78.187,IAD,North America,Ashburn,241 ms
+172.67.102.61,IAD,North America,Ashburn,241 ms
+172.67.121.181,IAD,North America,Ashburn,241 ms
+104.27.93.201,IAD,North America,Ashburn,241 ms
+104.21.8.65,AMS,Europe,Amsterdam,241 ms
+104.25.173.77,IAD,North America,Ashburn,241 ms
+104.21.74.193,AMS,Europe,Amsterdam,241 ms
+104.27.41.194,IAD,North America,Ashburn,241 ms
+172.67.74.233,IAD,North America,Ashburn,241 ms
+104.21.214.160,AMS,Europe,Amsterdam,241 ms
+104.21.225.157,EWR,North America,Newark,241 ms
+104.21.77.253,AMS,Europe,Amsterdam,241 ms
+104.20.213.53,IAD,North America,Ashburn,241 ms
+104.25.196.39,IAD,North America,Ashburn,241 ms
+104.21.43.86,AMS,Europe,Amsterdam,241 ms
+172.67.129.6,AMS,Europe,Amsterdam,241 ms
+104.24.75.234,IAD,North America,Ashburn,242 ms
+104.25.125.254,IAD,North America,Ashburn,242 ms
+172.67.211.100,AMS,Europe,Amsterdam,242 ms
+104.25.101.50,IAD,North America,Ashburn,242 ms
+104.25.99.101,IAD,North America,Ashburn,242 ms
+104.20.206.117,IAD,North America,Ashburn,242 ms
+104.20.47.161,IAD,North America,Ashburn,242 ms
+104.20.203.28,IAD,North America,Ashburn,242 ms
+172.67.122.107,IAD,North America,Ashburn,242 ms
+104.21.100.81,AMS,Europe,Amsterdam,242 ms
+104.22.47.153,IAD,North America,Ashburn,242 ms
+104.25.181.84,IAD,North America,Ashburn,242 ms
+104.25.11.123,IAD,North America,Ashburn,242 ms
+104.27.15.207,IAD,North America,Ashburn,242 ms
+104.27.12.219,IAD,North America,Ashburn,242 ms
+104.27.18.122,IAD,North America,Ashburn,242 ms
+104.27.120.62,IAD,North America,Ashburn,242 ms
+104.27.78.59,IAD,North America,Ashburn,242 ms
+104.25.172.100,IAD,North America,Ashburn,242 ms
+104.22.30.252,IAD,North America,Ashburn,242 ms
+104.22.25.56,IAD,North America,Ashburn,242 ms
+172.67.252.157,AMS,Europe,Amsterdam,242 ms
+104.24.223.95,IAD,North America,Ashburn,242 ms
+104.24.176.119,IAD,North America,Ashburn,242 ms
+104.20.237.238,IAD,North America,Ashburn,242 ms
+104.20.250.52,IAD,North America,Ashburn,242 ms
+104.21.64.238,AMS,Europe,Amsterdam,242 ms
+172.67.84.178,IAD,North America,Ashburn,242 ms
+104.27.34.221,IAD,North America,Ashburn,242 ms
+172.67.120.178,IAD,North America,Ashburn,242 ms
+172.67.115.86,IAD,North America,Ashburn,243 ms
+104.24.50.145,IAD,North America,Ashburn,243 ms
+172.65.177.59,IAD,North America,Ashburn,243 ms
+104.24.29.169,IAD,North America,Ashburn,243 ms
+104.20.56.140,IAD,North America,Ashburn,243 ms
+104.24.89.117,IAD,North America,Ashburn,243 ms
+104.21.196.142,AMS,Europe,Amsterdam,243 ms
+104.22.8.221,IAD,North America,Ashburn,243 ms
+104.22.12.40,IAD,North America,Ashburn,243 ms
+104.21.7.107,AMS,Europe,Amsterdam,243 ms
+104.20.174.100,IAD,North America,Ashburn,243 ms
+104.16.173.118,SJC,North America,San Jose,243 ms
+172.67.87.81,IAD,North America,Ashburn,243 ms
+104.25.240.26,IAD,North America,Ashburn,243 ms
+104.21.97.216,AMS,Europe,Amsterdam,243 ms
+104.24.57.224,IAD,North America,Ashburn,243 ms
+198.41.211.213,AMS,Europe,Amsterdam,243 ms
+172.67.94.141,IAD,North America,Ashburn,243 ms
+104.24.211.60,IAD,North America,Ashburn,243 ms
+104.24.210.6,IAD,North America,Ashburn,243 ms
+104.20.137.122,IAD,North America,Ashburn,244 ms
+104.20.66.19,IAD,North America,Ashburn,244 ms
+104.21.108.42,AMS,Europe,Amsterdam,244 ms
+104.25.2.173,IAD,North America,Ashburn,244 ms
+104.24.53.192,IAD,North America,Ashburn,244 ms
+172.67.148.250,AMS,Europe,Amsterdam,244 ms
+104.22.11.135,IAD,North America,Ashburn,244 ms
+104.22.9.145,IAD,North America,Ashburn,244 ms
+104.20.77.151,IAD,North America,Ashburn,244 ms
+104.22.29.219,IAD,North America,Ashburn,244 ms
+104.22.15.76,IAD,North America,Ashburn,244 ms
+104.22.18.166,IAD,North America,Ashburn,244 ms
+172.67.205.27,AMS,Europe,Amsterdam,244 ms
+104.20.49.80,IAD,North America,Ashburn,244 ms
+104.27.17.234,IAD,North America,Ashburn,244 ms
+104.20.6.141,IAD,North America,Ashburn,244 ms
+104.20.42.137,IAD,North America,Ashburn,244 ms
+104.25.145.132,IAD,North America,Ashburn,244 ms
+104.26.10.93,IAD,North America,Ashburn,244 ms
+172.67.100.215,IAD,North America,Ashburn,244 ms
+104.24.251.139,IAD,North America,Ashburn,244 ms
+104.24.150.99,IAD,North America,Ashburn,244 ms
+104.25.114.40,IAD,North America,Ashburn,245 ms
+104.16.177.35,SJC,North America,San Jose,245 ms
+104.25.137.188,IAD,North America,Ashburn,245 ms
+104.23.120.107,IAD,North America,Ashburn,245 ms
+104.22.67.95,IAD,North America,Ashburn,245 ms
+104.24.0.106,IAD,North America,Ashburn,245 ms
+104.24.32.68,IAD,North America,Ashburn,245 ms
+104.22.35.109,IAD,North America,Ashburn,245 ms
+104.20.136.110,IAD,North America,Ashburn,245 ms
+104.21.233.249,EWR,North America,Newark,245 ms
+104.20.162.190,IAD,North America,Ashburn,245 ms
+104.20.39.240,IAD,North America,Ashburn,245 ms
+104.25.236.226,IAD,North America,Ashburn,245 ms
+104.25.180.52,IAD,North America,Ashburn,245 ms
+104.25.182.36,IAD,North America,Ashburn,245 ms
+104.20.79.11,IAD,North America,Ashburn,245 ms
+172.67.99.241,IAD,North America,Ashburn,245 ms
+104.24.28.165,IAD,North America,Ashburn,245 ms
+104.24.27.201,IAD,North America,Ashburn,245 ms
+172.67.210.31,AMS,Europe,Amsterdam,245 ms
+104.25.91.214,IAD,North America,Ashburn,245 ms
+104.20.131.166,IAD,North America,Ashburn,245 ms
+104.22.28.42,IAD,North America,Ashburn,245 ms
+172.67.54.161,IAD,North America,Ashburn,245 ms
+104.24.137.82,IAD,North America,Ashburn,245 ms
+104.20.157.151,IAD,North America,Ashburn,245 ms
+104.27.197.185,IAD,North America,Ashburn,246 ms
+104.20.3.243,IAD,North America,Ashburn,246 ms
+172.67.126.232,IAD,North America,Ashburn,246 ms
+172.67.143.125,AMS,Europe,Amsterdam,246 ms
+104.24.134.92,IAD,North America,Ashburn,246 ms
+104.27.50.55,IAD,North America,Ashburn,246 ms
+104.20.50.136,IAD,North America,Ashburn,246 ms
+104.24.168.224,IAD,North America,Ashburn,246 ms
+104.25.128.140,IAD,North America,Ashburn,246 ms
+104.20.97.41,IAD,North America,Ashburn,246 ms
+104.23.107.230,IAD,North America,Ashburn,246 ms
+104.20.52.110,IAD,North America,Ashburn,246 ms
+172.67.167.128,AMS,Europe,Amsterdam,246 ms
+104.20.215.235,IAD,North America,Ashburn,246 ms
+104.25.43.110,IAD,North America,Ashburn,246 ms
+104.24.17.177,IAD,North America,Ashburn,246 ms
+104.26.14.191,IAD,North America,Ashburn,246 ms
+104.24.199.51,IAD,North America,Ashburn,247 ms
+104.20.129.241,IAD,North America,Ashburn,247 ms
+104.24.220.241,IAD,North America,Ashburn,247 ms
+172.67.40.191,IAD,North America,Ashburn,247 ms
+104.21.13.96,AMS,Europe,Amsterdam,247 ms
+104.20.108.9,IAD,North America,Ashburn,247 ms
+172.67.239.209,AMS,Europe,Amsterdam,247 ms
+104.21.40.149,AMS,Europe,Amsterdam,247 ms
+104.21.87.105,AMS,Europe,Amsterdam,247 ms
+104.22.24.221,IAD,North America,Ashburn,247 ms
+104.20.68.228,IAD,North America,Ashburn,247 ms
+104.20.73.229,IAD,North America,Ashburn,247 ms
+104.24.227.156,IAD,North America,Ashburn,247 ms
+104.24.195.66,IAD,North America,Ashburn,247 ms
+104.24.230.14,IAD,North America,Ashburn,247 ms
+172.67.208.218,AMS,Europe,Amsterdam,247 ms
+104.21.220.245,AMS,Europe,Amsterdam,247 ms
+104.22.36.107,IAD,North America,Ashburn,247 ms
+104.20.223.215,IAD,North America,Ashburn,247 ms
+104.25.50.31,IAD,North America,Ashburn,247 ms
+104.22.60.69,IAD,North America,Ashburn,247 ms
+104.17.137.17,SJC,North America,San Jose,248 ms
+104.22.70.206,IAD,North America,Ashburn,248 ms
+104.22.44.207,IAD,North America,Ashburn,248 ms
+104.20.91.69,IAD,North America,Ashburn,248 ms
+104.21.80.96,AMS,Europe,Amsterdam,248 ms
+104.23.136.174,IAD,North America,Ashburn,248 ms
+104.25.208.5,IAD,North America,Ashburn,248 ms
+104.22.50.12,IAD,North America,Ashburn,249 ms
+104.27.31.123,IAD,North America,Ashburn,249 ms
+104.18.139.36,SJC,North America,San Jose,249 ms
+104.21.224.54,EWR,North America,Newark,249 ms
+104.24.14.182,IAD,North America,Ashburn,249 ms
+104.24.162.26,IAD,North America,Ashburn,249 ms
+104.20.151.162,IAD,North America,Ashburn,249 ms
+104.20.59.88,IAD,North America,Ashburn,249 ms
+172.67.137.197,AMS,Europe,Amsterdam,249 ms
+104.25.198.40,IAD,North America,Ashburn,249 ms
+104.20.222.52,IAD,North America,Ashburn,250 ms
+104.21.111.135,AMS,Europe,Amsterdam,250 ms
+104.25.41.77,IAD,North America,Ashburn,250 ms
+104.25.39.105,IAD,North America,Ashburn,250 ms
+104.16.221.27,SJC,North America,San Jose,250 ms
+104.21.27.210,AMS,Europe,Amsterdam,250 ms
+104.22.26.228,IAD,North America,Ashburn,250 ms
+104.21.83.103,AMS,Europe,Amsterdam,250 ms
+104.21.45.184,AMS,Europe,Amsterdam,250 ms
+104.23.122.63,IAD,North America,Ashburn,250 ms
+172.67.145.2,AMS,Europe,Amsterdam,251 ms
+104.22.65.25,IAD,North America,Ashburn,251 ms
+104.25.38.132,IAD,North America,Ashburn,251 ms
+104.25.37.27,IAD,North America,Ashburn,251 ms
+104.19.246.211,DFW,North America,Dallas,251 ms
+104.21.91.137,AMS,Europe,Amsterdam,251 ms
+104.20.201.221,IAD,North America,Ashburn,251 ms
+172.67.164.108,AMS,Europe,Amsterdam,251 ms
+104.24.47.70,IAD,North America,Ashburn,252 ms
+104.16.193.206,SJC,North America,San Jose,252 ms
+104.21.10.241,AMS,Europe,Amsterdam,252 ms
+104.19.133.223,DFW,North America,Dallas,252 ms
+104.23.138.106,IAD,North America,Ashburn,252 ms
+104.21.53.198,AMS,Europe,Amsterdam,252 ms
+104.24.202.0,IAD,North America,Ashburn,252 ms
+104.24.212.113,IAD,North America,Ashburn,252 ms
+104.16.198.77,SJC,North America,San Jose,252 ms
+104.20.210.34,IAD,North America,Ashburn,252 ms
+104.25.18.94,IAD,North America,Ashburn,252 ms
+104.21.32.83,AMS,Europe,Amsterdam,253 ms
+104.22.31.92,IAD,North America,Ashburn,253 ms
+104.23.97.7,IAD,North America,Ashburn,253 ms
+104.23.123.179,IAD,North America,Ashburn,253 ms
+172.67.146.115,AMS,Europe,Amsterdam,253 ms
+104.25.93.80,IAD,North America,Ashburn,253 ms
+104.20.71.60,IAD,North America,Ashburn,254 ms
+104.24.218.53,IAD,North America,Ashburn,254 ms
+104.24.232.215,IAD,North America,Ashburn,254 ms
+104.22.0.132,IAD,North America,Ashburn,254 ms
+104.17.24.140,SJC,North America,San Jose,254 ms
+104.25.124.230,IAD,North America,Ashburn,254 ms
+104.24.175.59,IAD,North America,Ashburn,254 ms
+104.27.47.189,IAD,North America,Ashburn,254 ms
+104.20.88.86,IAD,North America,Ashburn,255 ms
+104.24.224.239,IAD,North America,Ashburn,255 ms
+104.17.144.171,SJC,North America,San Jose,255 ms
+104.27.86.0,IAD,North America,Ashburn,255 ms
+104.27.56.38,IAD,North America,Ashburn,255 ms
+104.27.57.9,IAD,North America,Ashburn,255 ms
+104.22.64.154,IAD,North America,Ashburn,255 ms
+104.25.70.207,IAD,North America,Ashburn,255 ms
+104.25.73.94,IAD,North America,Ashburn,255 ms
+104.25.17.95,IAD,North America,Ashburn,255 ms
+104.25.15.158,IAD,North America,Ashburn,255 ms
+104.21.15.103,AMS,Europe,Amsterdam,256 ms
+104.22.73.44,IAD,North America,Ashburn,256 ms
+104.21.54.110,AMS,Europe,Amsterdam,256 ms
+104.24.37.57,IAD,North America,Ashburn,256 ms
+104.20.207.70,IAD,North America,Ashburn,256 ms
+104.20.70.134,IAD,North America,Ashburn,256 ms
+172.67.6.146,IAD,North America,Ashburn,256 ms
+104.21.112.0,AMS,Europe,Amsterdam,257 ms
+104.22.62.176,IAD,North America,Ashburn,257 ms
+172.67.18.50,IAD,North America,Ashburn,258 ms
+104.20.5.99,IAD,North America,Ashburn,258 ms
+104.17.184.134,SJC,North America,San Jose,258 ms
+104.20.74.18,IAD,North America,Ashburn,258 ms
+104.27.24.156,IAD,North America,Ashburn,259 ms
+104.16.128.41,SJC,North America,San Jose,259 ms
+104.24.91.119,IAD,North America,Ashburn,259 ms
+172.67.51.212,IAD,North America,Ashburn,260 ms
+162.159.209.64,BUF,North America,Buffalo,260 ms
+104.20.86.118,IAD,North America,Ashburn,260 ms
+172.67.220.239,AMS,Europe,Amsterdam,260 ms
+104.24.194.10,IAD,North America,Ashburn,260 ms
+188.114.99.253,AMS,Europe,Amsterdam,260 ms
+188.114.96.252,AMS,Europe,Amsterdam,260 ms
+104.21.232.227,DFW,North America,Dallas,260 ms
+104.27.27.1,IAD,North America,Ashburn,260 ms
+104.25.45.234,IAD,North America,Ashburn,260 ms
+104.25.229.196,IAD,North America,Ashburn,261 ms
+104.24.243.30,IAD,North America,Ashburn,261 ms
+104.16.219.89,SJC,North America,San Jose,261 ms
+188.114.98.128,AMS,Europe,Amsterdam,261 ms
+104.18.110.117,SJC,North America,San Jose,262 ms
+104.24.200.128,IAD,North America,Ashburn,262 ms
+172.67.191.142,AMS,Europe,Amsterdam,262 ms
+162.159.138.118,SJC,North America,San Jose,263 ms
+172.67.142.252,AMS,Europe,Amsterdam,263 ms
+172.64.84.141,SJC,North America,San Jose,264 ms
+104.21.198.193,AMS,Europe,Amsterdam,264 ms
+104.20.94.48,IAD,North America,Ashburn,264 ms
+104.23.114.208,IAD,North America,Ashburn,265 ms
+104.21.115.140,AMS,Europe,Amsterdam,265 ms
+104.22.77.226,IAD,North America,Ashburn,265 ms
+104.20.110.70,IAD,North America,Ashburn,265 ms
+104.26.11.75,IAD,North America,Ashburn,266 ms
+172.67.79.193,IAD,North America,Ashburn,266 ms
+104.25.40.10,IAD,North America,Ashburn,266 ms
+104.23.119.5,IAD,North America,Ashburn,267 ms
+172.64.38.72,SJC,North America,San Jose,268 ms
+104.16.214.60,SJC,North America,San Jose,269 ms
+104.24.207.46,IAD,North America,Ashburn,270 ms
+104.16.165.231,SJC,North America,San Jose,271 ms
+104.18.67.177,SJC,North America,San Jose,271 ms
+104.23.96.179,IAD,North America,Ashburn,272 ms
+104.18.208.114,SJC,North America,San Jose,273 ms
+104.27.97.239,IAD,North America,Ashburn,274 ms
+104.23.100.197,IAD,North America,Ashburn,274 ms
+104.23.104.165,IAD,North America,Ashburn,274 ms
+104.24.88.161,IAD,North America,Ashburn,274 ms
+104.16.98.71,SJC,North America,San Jose,274 ms
+104.16.185.68,SJC,North America,San Jose,275 ms
+104.16.37.189,SJC,North America,San Jose,275 ms
+104.16.88.84,SJC,North America,San Jose,275 ms
+104.23.109.192,IAD,North America,Ashburn,276 ms
+104.18.133.251,SJC,North America,San Jose,276 ms
+104.24.22.119,IAD,North America,Ashburn,276 ms
+104.22.78.145,IAD,North America,Ashburn,277 ms
+104.25.110.139,IAD,North America,Ashburn,277 ms
+104.24.214.85,IAD,North America,Ashburn,278 ms
+104.18.142.209,SJC,North America,San Jose,278 ms
+104.23.115.179,IAD,North America,Ashburn,279 ms
+104.17.126.159,SJC,North America,San Jose,281 ms
+104.17.130.115,SJC,North America,San Jose,281 ms
+104.16.225.120,SJC,North America,San Jose,281 ms
+104.18.132.161,SJC,North America,San Jose,282 ms
+104.23.118.205,IAD,North America,Ashburn,282 ms
+104.17.179.245,SJC,North America,San Jose,283 ms
+162.159.23.173,SJC,North America,San Jose,284 ms
+104.16.184.47,SJC,North America,San Jose,285 ms
+104.18.225.77,SJC,North America,San Jose,287 ms
+104.17.47.81,SJC,North America,San Jose,288 ms
+104.16.166.27,SJC,North America,San Jose,289 ms
+162.159.160.98,CDG,Europe,Paris,289 ms
+104.18.182.129,SJC,North America,San Jose,290 ms
+104.16.229.230,SJC,North America,San Jose,291 ms
+104.16.190.79,SJC,North America,San Jose,293 ms
+162.159.1.73,SJC,North America,San Jose,295 ms
+104.17.115.228,SJC,North America,San Jose,297 ms
+104.19.168.172,SJC,North America,San Jose,297 ms
+104.16.230.48,SJC,North America,San Jose,297 ms
+104.19.38.104,SJC,North America,San Jose,297 ms
+162.159.58.166,SJC,North America,San Jose,298 ms
+104.19.47.143,SJC,North America,San Jose,302 ms
+104.17.110.197,SJC,North America,San Jose,303 ms
+104.19.164.127,SJC,North America,San Jose,304 ms
+104.16.108.210,SJC,North America,San Jose,307 ms
+104.16.211.64,SJC,North America,San Jose,308 ms
+104.19.123.24,SJC,North America,San Jose,308 ms
+104.19.41.108,SJC,North America,San Jose,309 ms
+104.19.95.5,SJC,North America,San Jose,309 ms
+104.18.191.128,SJC,North America,San Jose,311 ms
+104.16.144.88,SJC,North America,San Jose,311 ms
+104.17.93.249,SJC,North America,San Jose,314 ms
+104.16.145.94,SJC,North America,San Jose,315 ms
+104.17.102.233,SJC,North America,San Jose,315 ms
+104.19.106.73,SJC,North America,San Jose,318 ms
+104.16.233.200,SJC,North America,San Jose,318 ms
+104.19.113.204,SJC,North America,San Jose,319 ms
+104.19.98.127,SJC,North America,San Jose,320 ms
+104.19.33.133,SJC,North America,San Jose,320 ms
+104.19.111.41,SJC,North America,San Jose,320 ms
+104.16.81.66,SJC,North America,San Jose,322 ms
+104.17.205.195,SJC,North America,San Jose,324 ms
+104.18.168.152,SJC,North America,San Jose,324 ms
+104.19.53.183,SJC,North America,San Jose,325 ms
+198.41.196.109,SJC,North America,San Jose,328 ms
+108.162.198.137,SJC,North America,San Jose,328 ms
+104.19.107.3,SJC,North America,San Jose,328 ms
+103.21.244.240,SJC,North America,San Jose,329 ms
+104.17.97.175,SJC,North America,San Jose,329 ms
+104.16.50.235,SJC,North America,San Jose,330 ms
+104.19.20.207,SJC,North America,San Jose,330 ms
+104.18.86.192,SJC,North America,San Jose,331 ms
+104.19.44.251,SJC,North America,San Jose,332 ms
+141.101.115.26,SJC,North America,San Jose,333 ms
+104.18.13.167,SJC,North America,San Jose,333 ms
+104.19.68.52,SJC,North America,San Jose,334 ms
+104.17.11.106,SJC,North America,San Jose,335 ms
+104.18.187.125,SJC,North America,San Jose,335 ms
+104.19.154.157,SJC,North America,San Jose,336 ms
+104.18.161.82,SJC,North America,San Jose,337 ms
+104.18.6.4,SJC,North America,San Jose,337 ms
+104.17.225.216,SJC,North America,San Jose,338 ms
+104.16.195.152,SJC,North America,San Jose,338 ms
+104.17.10.85,SJC,North America,San Jose,339 ms
+172.64.49.20,SJC,North America,San Jose,339 ms
+104.19.19.248,SJC,North America,San Jose,340 ms
+104.19.116.188,SJC,North America,San Jose,341 ms
+104.19.82.5,SJC,North America,San Jose,342 ms
+104.17.35.78,SJC,North America,San Jose,342 ms
+104.19.126.167,SJC,North America,San Jose,342 ms
+104.19.170.109,SJC,North America,San Jose,343 ms
+104.17.23.254,SJC,North America,San Jose,344 ms
+104.17.148.8,SJC,North America,San Jose,344 ms
+104.17.252.1,SJC,North America,San Jose,345 ms
+104.19.137.247,SJC,North America,San Jose,345 ms
+104.16.208.241,SJC,North America,San Jose,345 ms
+104.17.129.115,SJC,North America,San Jose,345 ms
+104.17.117.25,SJC,North America,San Jose,346 ms
+104.16.105.37,SJC,North America,San Jose,346 ms
+104.19.43.167,SJC,North America,San Jose,347 ms
+104.16.110.83,SJC,North America,San Jose,347 ms
+104.19.105.168,SJC,North America,San Jose,348 ms
+104.16.235.38,SJC,North America,San Jose,348 ms
+104.19.124.57,SJC,North America,San Jose,349 ms
+104.16.161.85,SJC,North America,San Jose,350 ms
+104.16.255.164,SJC,North America,San Jose,350 ms
+104.17.81.47,SJC,North America,San Jose,351 ms
+104.19.52.140,SJC,North America,San Jose,351 ms
+104.17.104.138,SJC,North America,San Jose,351 ms
+104.17.79.166,SJC,North America,San Jose,352 ms
+104.16.58.97,SJC,North America,San Jose,352 ms
+104.19.54.70,SJC,North America,San Jose,352 ms
+104.16.64.223,SJC,North America,San Jose,353 ms
+104.16.234.49,SJC,North America,San Jose,354 ms
+162.159.141.59,SJC,North America,San Jose,355 ms
+104.18.205.183,SJC,North America,San Jose,355 ms
+162.159.4.215,SJC,North America,San Jose,355 ms
+104.16.86.113,SJC,North America,San Jose,355 ms
+104.16.147.184,SJC,North America,San Jose,356 ms
+104.19.34.116,SJC,North America,San Jose,358 ms
+104.16.63.215,SJC,North America,San Jose,358 ms
+104.16.191.174,SJC,North America,San Jose,358 ms
+104.18.33.8,SJC,North America,San Jose,358 ms
+104.17.103.95,SJC,North America,San Jose,359 ms
+104.19.84.130,SJC,North America,San Jose,360 ms
+104.17.157.78,SJC,North America,San Jose,361 ms
+104.19.74.68,SJC,North America,San Jose,361 ms
+104.19.229.61,SJC,North America,San Jose,361 ms
+104.18.255.73,SJC,North America,San Jose,361 ms
+104.18.153.28,SJC,North America,San Jose,361 ms
+104.17.70.198,SJC,North America,San Jose,362 ms
+104.17.21.254,SJC,North America,San Jose,362 ms
+172.65.201.249,LHR,Europe,London,363 ms
+172.64.147.113,SJC,North America,San Jose,363 ms
+172.64.158.64,SJC,North America,San Jose,363 ms
+104.16.10.167,SJC,North America,San Jose,364 ms
+104.16.218.67,SJC,North America,San Jose,364 ms
+104.18.108.37,SJC,North America,San Jose,364 ms
+104.16.197.94,SJC,North America,San Jose,367 ms
+172.64.86.92,SJC,North America,San Jose,367 ms
+104.16.223.61,SJC,North America,San Jose,367 ms
+198.217.251.147,SJC,North America,San Jose,367 ms
+104.17.107.42,SJC,North America,San Jose,367 ms
+104.17.125.218,SJC,North America,San Jose,368 ms
+104.17.27.85,SJC,North America,San Jose,369 ms
+104.17.55.230,SJC,North America,San Jose,369 ms
+104.16.172.223,SJC,North America,San Jose,369 ms
+104.17.190.220,SJC,North America,San Jose,369 ms
+104.19.76.121,SJC,North America,San Jose,369 ms
+104.19.176.95,SJC,North America,San Jose,370 ms
+104.17.173.13,SJC,North America,San Jose,370 ms
+104.16.76.38,SJC,North America,San Jose,371 ms
+104.18.73.91,SJC,North America,San Jose,371 ms
+104.18.65.9,SJC,North America,San Jose,371 ms
+104.19.216.203,SJC,North America,San Jose,371 ms
+104.17.2.122,SJC,North America,San Jose,372 ms
+198.41.192.82,SJC,North America,San Jose,372 ms
+104.18.66.170,SJC,North America,San Jose,372 ms
+172.64.150.86,SJC,North America,San Jose,373 ms
+108.162.195.215,SJC,North America,San Jose,373 ms
+104.19.206.171,SJC,North America,San Jose,373 ms
+104.19.145.12,SJC,North America,San Jose,373 ms
+104.16.224.36,SJC,North America,San Jose,373 ms
+104.17.178.38,SJC,North America,San Jose,373 ms
+104.16.228.250,SJC,North America,San Jose,373 ms
+104.19.172.83,SJC,North America,San Jose,374 ms
+104.18.2.81,SJC,North America,San Jose,374 ms
+104.18.81.223,SJC,North America,San Jose,374 ms
+104.16.33.241,SJC,North America,San Jose,374 ms
+162.159.22.91,SJC,North America,San Jose,375 ms
+104.19.220.29,SJC,North America,San Jose,375 ms
+104.18.40.173,SJC,North America,San Jose,375 ms
+104.16.240.142,SJC,North America,San Jose,375 ms
+104.19.212.177,SJC,North America,San Jose,375 ms
+104.19.166.35,SJC,North America,San Jose,375 ms
+104.17.233.176,SJC,North America,San Jose,375 ms
+104.17.108.48,SJC,North America,San Jose,376 ms
+104.16.252.89,SJC,North America,San Jose,376 ms
+104.17.82.142,SJC,North America,San Jose,376 ms
+104.17.32.83,SJC,North America,San Jose,376 ms
+104.19.39.192,SJC,North America,San Jose,376 ms
+104.16.160.128,SJC,North America,San Jose,377 ms
+104.16.136.53,SJC,North America,San Jose,377 ms
+104.17.5.97,SJC,North America,San Jose,377 ms
+104.17.85.40,SJC,North America,San Jose,377 ms
+104.19.227.9,SJC,North America,San Jose,377 ms
+104.18.199.252,SJC,North America,San Jose,377 ms
+104.16.163.97,SJC,North America,San Jose,378 ms
+104.19.210.28,SJC,North America,San Jose,378 ms
+104.17.116.45,SJC,North America,San Jose,378 ms
+104.16.32.113,SJC,North America,San Jose,378 ms
+104.16.244.233,SJC,North America,San Jose,378 ms
+172.64.154.26,SJC,North America,San Jose,378 ms
+23.227.60.231,SJC,North America,San Jose,378 ms
+66.235.200.20,SJC,North America,San Jose,378 ms
+104.18.185.135,SJC,North America,San Jose,379 ms
+104.19.207.20,SJC,North America,San Jose,379 ms
+104.19.204.69,SJC,North America,San Jose,379 ms
+104.16.0.105,SJC,North America,San Jose,379 ms
+104.18.211.238,SJC,North America,San Jose,380 ms
+104.17.63.142,SJC,North America,San Jose,380 ms
+190.93.247.95,SJC,North America,San Jose,380 ms
+104.16.1.34,SJC,North America,San Jose,380 ms
+104.16.7.186,SJC,North America,San Jose,380 ms
+104.17.49.249,SJC,North America,San Jose,380 ms
+104.19.182.183,SJC,North America,San Jose,380 ms
+104.17.58.6,SJC,North America,San Jose,380 ms
+104.16.106.1,SJC,North America,San Jose,380 ms
+104.18.223.172,SJC,North America,San Jose,380 ms
+104.16.226.131,SJC,North America,San Jose,381 ms
+104.17.57.57,SJC,North America,San Jose,381 ms
+104.16.66.166,SJC,North America,San Jose,381 ms
+104.16.17.70,SJC,North America,San Jose,381 ms
+104.16.251.220,SJC,North America,San Jose,381 ms
+104.19.189.89,SJC,North America,San Jose,381 ms
+104.16.69.204,SJC,North America,San Jose,381 ms
+104.16.75.164,SJC,North America,San Jose,381 ms
+172.64.156.102,SJC,North America,San Jose,381 ms
+104.16.247.115,SJC,North America,San Jose,382 ms
+104.16.14.58,SJC,North America,San Jose,382 ms
+104.17.60.99,SJC,North America,San Jose,382 ms
+104.17.210.123,SJC,North America,San Jose,382 ms
+104.19.199.11,SJC,North America,San Jose,382 ms
+104.19.165.37,SJC,North America,San Jose,382 ms
+162.159.15.186,SJC,North America,San Jose,382 ms
+104.18.189.113,SJC,North America,San Jose,383 ms
+104.17.223.167,SJC,North America,San Jose,383 ms
+104.16.65.62,SJC,North America,San Jose,383 ms
+104.18.243.53,SJC,North America,San Jose,383 ms
+104.18.206.42,SJC,North America,San Jose,383 ms
+104.19.150.226,SJC,North America,San Jose,383 ms
+104.18.14.239,SJC,North America,San Jose,383 ms
+104.19.211.239,SJC,North America,San Jose,383 ms
+104.17.140.127,SJC,North America,San Jose,383 ms
+104.17.189.3,SJC,North America,San Jose,383 ms
+104.16.27.91,SJC,North America,San Jose,383 ms
+104.16.83.127,SJC,North America,San Jose,383 ms
+104.19.193.222,SJC,North America,San Jose,384 ms
+172.65.204.232,SJC,North America,San Jose,384 ms
+104.17.30.180,SJC,North America,San Jose,384 ms
+104.18.93.138,SJC,North America,San Jose,384 ms
+104.16.212.84,SJC,North America,San Jose,384 ms
+162.159.196.23,SJC,North America,San Jose,384 ms
+104.16.167.132,SJC,North America,San Jose,384 ms
+104.18.22.171,SJC,North America,San Jose,384 ms
+162.159.17.66,SJC,North America,San Jose,384 ms
+104.18.99.190,SJC,North America,San Jose,384 ms
+104.16.150.249,SJC,North America,San Jose,384 ms
+104.16.199.195,SJC,North America,San Jose,385 ms
+104.16.103.191,SJC,North America,San Jose,385 ms
+104.19.31.106,SJC,North America,San Jose,385 ms
+104.18.10.76,SJC,North America,San Jose,385 ms
+104.17.19.191,SJC,North America,San Jose,385 ms
+104.19.205.253,SJC,North America,San Jose,385 ms
+104.19.185.113,SJC,North America,San Jose,385 ms
+104.17.202.235,SJC,North America,San Jose,385 ms
+104.19.65.93,SJC,North America,San Jose,385 ms
+104.16.159.20,SJC,North America,San Jose,385 ms
+198.41.205.54,SJC,North America,San Jose,385 ms
+198.41.206.150,SJC,North America,San Jose,385 ms
+104.17.113.71,SJC,North America,San Jose,386 ms
+172.64.82.139,SJC,North America,San Jose,386 ms
+104.16.40.76,SJC,North America,San Jose,386 ms
+104.17.8.193,SJC,North America,San Jose,386 ms
+104.16.203.220,SJC,North America,San Jose,386 ms
+104.17.68.5,SJC,North America,San Jose,386 ms
+104.16.176.71,SJC,North America,San Jose,386 ms
+104.16.209.120,SJC,North America,San Jose,386 ms
+104.16.101.27,SJC,North America,San Jose,386 ms
+104.16.95.182,SJC,North America,San Jose,386 ms
+162.159.135.137,SJC,North America,San Jose,387 ms
+104.16.249.226,SJC,North America,San Jose,387 ms
+104.17.159.33,SJC,North America,San Jose,387 ms
+104.19.222.220,SJC,North America,San Jose,387 ms
+104.19.158.242,SJC,North America,San Jose,387 ms
+104.17.198.29,SJC,North America,San Jose,387 ms
+104.19.231.8,SJC,North America,San Jose,388 ms
+104.19.187.60,SJC,North America,San Jose,388 ms
+104.16.107.57,SJC,North America,San Jose,388 ms
+104.18.145.185,SJC,North America,San Jose,388 ms
+104.16.243.251,SJC,North America,San Jose,388 ms
+172.64.151.156,SJC,North America,San Jose,388 ms
+104.18.194.194,SJC,North America,San Jose,388 ms
+104.16.28.193,SJC,North America,San Jose,388 ms
+104.16.109.206,SJC,North America,San Jose,388 ms
+104.17.234.112,SJC,North America,San Jose,388 ms
+162.159.5.49,SJC,North America,San Jose,388 ms
+104.19.209.118,SJC,North America,San Jose,389 ms
+104.16.47.247,SJC,North America,San Jose,389 ms
+104.16.52.95,SJC,North America,San Jose,389 ms
+104.19.184.133,SJC,North America,San Jose,389 ms
+104.18.245.65,SJC,North America,San Jose,389 ms
+172.65.241.31,SJC,North America,San Jose,389 ms
+104.16.175.209,SJC,North America,San Jose,389 ms
+104.19.214.66,SJC,North America,San Jose,389 ms
+104.16.57.30,SJC,North America,San Jose,389 ms
+104.19.217.253,SJC,North America,San Jose,389 ms
+104.16.143.77,SJC,North America,San Jose,390 ms
+104.16.35.10,SJC,North America,San Jose,390 ms
+198.41.204.22,SJC,North America,San Jose,390 ms
+104.19.188.143,SJC,North America,San Jose,390 ms
+172.66.43.159,SJC,North America,San Jose,390 ms
+162.159.61.127,SJC,North America,San Jose,390 ms
+104.16.16.168,SJC,North America,San Jose,390 ms
+104.17.194.202,SJC,North America,San Jose,390 ms
+162.159.0.160,SJC,North America,San Jose,390 ms
+104.19.223.248,SJC,North America,San Jose,390 ms
+172.64.93.239,SJC,North America,San Jose,390 ms
+104.17.203.164,SJC,North America,San Jose,390 ms
+104.16.204.181,SJC,North America,San Jose,391 ms
+162.159.7.124,SJC,North America,San Jose,391 ms
+104.17.25.220,SJC,North America,San Jose,391 ms
+104.18.87.120,SJC,North America,San Jose,391 ms
+104.19.233.143,SJC,North America,San Jose,391 ms
+104.17.26.203,SJC,North America,San Jose,391 ms
+104.17.76.248,SJC,North America,San Jose,391 ms
+104.17.38.82,SJC,North America,San Jose,391 ms
+104.16.102.55,SJC,North America,San Jose,391 ms
+104.17.139.222,SJC,North America,San Jose,391 ms
+104.18.186.62,SJC,North America,San Jose,391 ms
+104.18.47.208,SJC,North America,San Jose,391 ms
+104.19.177.132,SJC,North America,San Jose,392 ms
+104.16.155.113,SJC,North America,San Jose,392 ms
+104.17.9.217,SJC,North America,San Jose,392 ms
+104.16.192.123,SJC,North America,San Jose,392 ms
+104.16.140.255,SJC,North America,San Jose,392 ms
+104.16.164.96,SJC,North America,San Jose,392 ms
+104.16.152.120,SJC,North America,San Jose,392 ms
+104.16.36.39,SJC,North America,San Jose,392 ms
+104.16.67.31,SJC,North America,San Jose,392 ms
+104.16.56.238,SJC,North America,San Jose,392 ms
+104.19.232.146,SJC,North America,San Jose,392 ms
+104.18.150.153,SJC,North America,San Jose,392 ms
+104.17.75.80,SJC,North America,San Jose,392 ms
+104.18.253.3,SJC,North America,San Jose,392 ms
+104.18.231.77,SJC,North America,San Jose,392 ms
+23.227.39.197,SJC,North America,San Jose,393 ms
+104.17.112.79,SJC,North America,San Jose,393 ms
+104.19.230.120,SJC,North America,San Jose,393 ms
+198.41.197.56,SJC,North America,San Jose,393 ms
+198.41.202.124,SJC,North America,San Jose,393 ms
+104.19.148.215,SJC,North America,San Jose,393 ms
+104.16.232.99,SJC,North America,San Jose,393 ms
+198.41.194.241,SJC,North America,San Jose,393 ms
+172.64.152.156,SJC,North America,San Jose,393 ms
+104.16.196.64,SJC,North America,San Jose,393 ms
+104.18.45.171,SJC,North America,San Jose,393 ms
+104.16.181.92,SJC,North America,San Jose,393 ms
+104.16.30.253,SJC,North America,San Jose,393 ms
+104.16.46.135,SJC,North America,San Jose,393 ms
+162.159.14.227,SJC,North America,San Jose,393 ms
+198.41.222.38,SJC,North America,San Jose,394 ms
+198.41.220.246,SJC,North America,San Jose,394 ms
+198.41.216.227,SJC,North America,San Jose,394 ms
+104.17.0.211,SJC,North America,San Jose,394 ms
+104.17.255.51,SJC,North America,San Jose,394 ms
+104.18.193.56,SJC,North America,San Jose,394 ms
+162.159.13.162,SJC,North America,San Jose,394 ms
+104.17.18.3,SJC,North America,San Jose,394 ms
+104.17.15.40,SJC,North America,San Jose,394 ms
+104.17.181.38,SJC,North America,San Jose,394 ms
+104.17.91.188,SJC,North America,San Jose,394 ms
+104.16.21.190,SJC,North America,San Jose,394 ms
+104.17.124.220,SJC,North America,San Jose,394 ms
+104.19.118.128,SJC,North America,San Jose,395 ms
+104.19.186.247,SJC,North America,San Jose,395 ms
+162.159.153.52,SJC,North America,San Jose,395 ms
+162.159.142.136,SJC,North America,San Jose,395 ms
+104.17.154.111,SJC,North America,San Jose,395 ms
+104.19.127.201,SJC,North America,San Jose,395 ms
+104.18.138.106,SJC,North America,San Jose,395 ms
+104.16.6.86,SJC,North America,San Jose,395 ms
+104.19.192.142,SJC,North America,San Jose,395 ms
+104.18.201.135,SJC,North America,San Jose,395 ms
+162.159.27.252,SJC,North America,San Jose,395 ms
+104.18.43.179,SJC,North America,San Jose,395 ms
+104.16.84.234,SJC,North America,San Jose,395 ms
+104.16.171.122,SJC,North America,San Jose,395 ms
+172.64.159.106,SJC,North America,San Jose,396 ms
+104.18.143.127,SJC,North America,San Jose,396 ms
+104.16.178.104,SJC,North America,San Jose,396 ms
+104.18.32.219,SJC,North America,San Jose,396 ms
+172.64.90.141,SJC,North America,San Jose,396 ms
+104.18.154.86,SJC,North America,San Jose,396 ms
+162.159.16.22,SJC,North America,San Jose,396 ms
+104.18.100.2,SJC,North America,San Jose,396 ms
+104.18.238.82,SJC,North America,San Jose,396 ms
+104.17.247.227,SJC,North America,San Jose,396 ms
+104.17.12.207,SJC,North America,San Jose,396 ms
+172.66.41.219,SJC,North America,San Jose,396 ms
+172.64.85.106,SJC,North America,San Jose,397 ms
+104.18.85.249,SJC,North America,San Jose,397 ms
+104.18.11.129,SJC,North America,San Jose,397 ms
+104.16.49.210,SJC,North America,San Jose,397 ms
+104.16.236.220,SJC,North America,San Jose,397 ms
+104.17.74.57,SJC,North America,San Jose,397 ms
+172.64.80.20,SJC,North America,San Jose,397 ms
+162.159.24.60,SJC,North America,San Jose,397 ms
+104.18.218.56,SJC,North America,San Jose,397 ms
+104.18.156.98,SJC,North America,San Jose,397 ms
+104.18.140.222,SJC,North America,San Jose,398 ms
+104.16.206.65,SJC,North America,San Jose,398 ms
+104.17.147.77,SJC,North America,San Jose,398 ms
+104.16.215.249,SJC,North America,San Jose,398 ms
+104.18.164.25,SJC,North America,San Jose,398 ms
+104.18.188.55,SJC,North America,San Jose,398 ms
+104.16.158.251,SJC,North America,San Jose,398 ms
+104.16.104.113,SJC,North America,San Jose,398 ms
+104.16.73.63,SJC,North America,San Jose,398 ms
+104.17.176.240,SJC,North America,San Jose,398 ms
+162.159.130.107,SJC,North America,San Jose,398 ms
+104.17.66.185,SJC,North America,San Jose,398 ms
+104.18.235.164,SJC,North America,San Jose,398 ms
+104.16.18.169,SJC,North America,San Jose,398 ms
+104.19.226.35,SJC,North America,San Jose,398 ms
+104.17.17.208,SJC,North America,San Jose,398 ms
+104.16.85.179,SJC,North America,San Jose,399 ms
+172.64.69.229,SJC,North America,San Jose,399 ms
+198.41.219.94,SJC,North America,San Jose,399 ms
+162.159.18.152,SJC,North America,San Jose,399 ms
+104.17.101.211,SJC,North America,San Jose,399 ms
+104.18.250.33,SJC,North America,San Jose,399 ms
+172.64.48.59,SJC,North America,San Jose,399 ms
+104.17.253.103,SJC,North America,San Jose,399 ms
+162.159.40.95,SJC,North America,San Jose,399 ms
+104.18.171.150,SJC,North America,San Jose,399 ms
+104.17.207.133,SJC,North America,San Jose,399 ms
+172.64.41.209,SJC,North America,San Jose,399 ms
+104.16.186.208,SJC,North America,San Jose,399 ms
+104.17.216.203,SJC,North America,San Jose,400 ms
+104.19.152.149,SJC,North America,San Jose,400 ms
+104.16.142.32,SJC,North America,San Jose,400 ms
+104.17.96.47,SJC,North America,San Jose,400 ms
+104.19.173.56,SJC,North America,San Jose,400 ms
+104.19.35.94,SJC,North America,San Jose,400 ms
+104.17.236.8,SJC,North America,San Jose,400 ms
+104.18.215.129,SJC,North America,San Jose,400 ms
+104.18.216.96,SJC,North America,San Jose,400 ms
+104.16.169.20,SJC,North America,San Jose,400 ms
+104.17.41.153,SJC,North America,San Jose,400 ms
+104.16.29.189,SJC,North America,San Jose,400 ms
+104.16.90.196,SJC,North America,San Jose,400 ms
+104.16.39.189,SJC,North America,San Jose,400 ms
+104.16.132.223,SJC,North America,San Jose,401 ms
+104.16.168.132,SJC,North America,San Jose,401 ms
+104.19.155.205,SJC,North America,San Jose,401 ms
+104.19.149.124,SJC,North America,San Jose,401 ms
+104.17.80.238,SJC,North America,San Jose,401 ms
+108.162.192.95,SJC,North America,San Jose,401 ms
+104.17.67.157,SJC,North America,San Jose,401 ms
+198.41.198.63,SJC,North America,San Jose,401 ms
+172.66.45.71,SJC,North America,San Jose,401 ms
+172.66.1.230,SJC,North America,San Jose,401 ms
+104.16.74.172,SJC,North America,San Jose,401 ms
+172.64.92.83,SJC,North America,San Jose,402 ms
+104.18.157.142,SJC,North America,San Jose,402 ms
+104.17.158.151,SJC,North America,San Jose,402 ms
+104.16.156.37,SJC,North America,San Jose,402 ms
+104.16.78.151,SJC,North America,San Jose,402 ms
+162.159.129.149,SJC,North America,San Jose,402 ms
+198.41.199.96,SJC,North America,San Jose,402 ms
+104.16.157.85,SJC,North America,San Jose,402 ms
+172.66.44.21,SJC,North America,San Jose,402 ms
+104.18.78.50,SJC,North America,San Jose,402 ms
+198.41.215.84,SJC,North America,San Jose,403 ms
+172.66.42.61,SJC,North America,San Jose,403 ms
+104.19.236.225,SJC,North America,San Jose,403 ms
+104.16.60.117,SJC,North America,San Jose,403 ms
+104.18.200.78,SJC,North America,San Jose,403 ms
+172.65.200.252,SJC,North America,San Jose,403 ms
+104.18.240.5,SJC,North America,San Jose,403 ms
+104.18.92.48,SJC,North America,San Jose,403 ms
+104.17.13.115,SJC,North America,San Jose,403 ms
+104.18.155.164,SJC,North America,San Jose,404 ms
+172.64.35.54,SJC,North America,San Jose,404 ms
+104.18.181.211,SJC,North America,San Jose,404 ms
+104.17.16.160,SJC,North America,San Jose,404 ms
+104.17.128.205,SJC,North America,San Jose,404 ms
+104.16.135.104,SJC,North America,San Jose,404 ms
+104.19.157.129,SJC,North America,San Jose,404 ms
+104.16.31.247,SJC,North America,San Jose,404 ms
+104.17.65.216,SJC,North America,San Jose,404 ms
+104.17.52.229,SJC,North America,San Jose,404 ms
+162.159.12.222,SJC,North America,San Jose,404 ms
+104.18.176.99,SJC,North America,San Jose,405 ms
+104.18.221.26,SJC,North America,San Jose,405 ms
+104.17.170.152,SJC,North America,San Jose,405 ms
+104.17.29.93,SJC,North America,San Jose,405 ms
+104.17.34.163,SJC,North America,San Jose,405 ms
+104.18.128.44,SJC,North America,San Jose,405 ms
+104.16.183.244,SJC,North America,San Jose,405 ms
+104.17.4.165,SJC,North America,San Jose,405 ms
+104.18.34.226,SJC,North America,San Jose,405 ms
+162.159.206.5,SJC,North America,San Jose,405 ms
+104.16.53.70,SJC,North America,San Jose,405 ms
+162.159.8.154,SJC,North America,San Jose,406 ms
+198.41.200.253,SJC,North America,San Jose,406 ms
+104.17.42.63,SJC,North America,San Jose,406 ms
+104.19.37.117,SJC,North America,San Jose,406 ms
+104.19.163.214,SJC,North America,San Jose,406 ms
+104.16.15.124,SJC,North America,San Jose,406 ms
+185.146.173.197,SJC,North America,San Jose,406 ms
+104.19.174.53,SJC,North America,San Jose,406 ms
+104.19.203.111,SJC,North America,San Jose,406 ms
+104.16.187.225,SJC,North America,San Jose,406 ms
+104.18.39.244,SJC,North America,San Jose,406 ms
+104.18.10.248,SJC,North America,San Jose,406 ms
+104.17.92.188,SJC,North America,San Jose,407 ms
+104.16.55.56,SJC,North America,San Jose,407 ms
+104.16.141.24,SJC,North America,San Jose,407 ms
+104.19.171.78,SJC,North America,San Jose,407 ms
+104.19.144.48,SJC,North America,San Jose,407 ms
+104.17.31.177,SJC,North America,San Jose,407 ms
+104.18.35.199,SJC,North America,San Jose,407 ms
+162.159.32.93,SJC,North America,San Jose,407 ms
+104.19.151.119,SJC,North America,San Jose,407 ms
+104.17.59.21,SJC,North America,San Jose,407 ms
+104.16.77.219,SJC,North America,San Jose,407 ms
+104.16.89.149,SJC,North America,San Jose,407 ms
+104.18.184.224,SJC,North America,San Jose,407 ms
+162.159.128.36,SJC,North America,San Jose,407 ms
+104.18.4.27,SJC,North America,San Jose,408 ms
+104.17.156.94,SJC,North America,San Jose,408 ms
+104.17.163.40,SJC,North America,San Jose,408 ms
+162.251.82.13,SJC,North America,San Jose,408 ms
+104.17.120.86,SJC,North America,San Jose,408 ms
+104.18.239.61,SJC,North America,San Jose,408 ms
+104.18.196.16,SJC,North America,San Jose,408 ms
+162.159.140.75,SJC,North America,San Jose,408 ms
+104.17.135.119,SJC,North America,San Jose,408 ms
+104.17.7.161,SJC,North America,San Jose,408 ms
+104.19.69.147,SJC,North America,San Jose,408 ms
+104.19.239.186,SJC,North America,San Jose,408 ms
+162.159.133.60,SJC,North America,San Jose,409 ms
+104.18.1.182,SJC,North America,San Jose,409 ms
+104.18.3.114,SJC,North America,San Jose,409 ms
+104.19.221.239,SJC,North America,San Jose,409 ms
+104.18.220.108,SJC,North America,San Jose,409 ms
+104.18.41.255,SJC,North America,San Jose,409 ms
+104.19.194.144,SJC,North America,San Jose,409 ms
+104.18.233.225,SJC,North America,San Jose,409 ms
+104.18.192.8,SJC,North America,San Jose,409 ms
+104.16.12.2,SJC,North America,San Jose,409 ms
+104.16.92.229,SJC,North America,San Jose,409 ms
+104.18.8.20,SJC,North America,San Jose,409 ms
+104.18.195.151,SJC,North America,San Jose,409 ms
+104.17.1.84,SJC,North America,San Jose,409 ms
+162.159.48.26,SJC,North America,San Jose,409 ms
+162.159.49.159,SJC,North America,San Jose,409 ms
+104.16.45.132,SJC,North America,San Jose,409 ms
+104.18.178.24,SJC,North America,San Jose,410 ms
+104.17.249.169,SJC,North America,San Jose,410 ms
+104.18.37.76,SJC,North America,San Jose,410 ms
+104.17.254.37,SJC,North America,San Jose,410 ms
+104.17.56.159,SJC,North America,San Jose,410 ms
+104.17.22.18,SJC,North America,San Jose,410 ms
+104.17.109.199,SJC,North America,San Jose,410 ms
+108.162.196.243,SJC,North America,San Jose,410 ms
+172.64.231.95,SJC,North America,San Jose,411 ms
+104.18.137.135,SJC,North America,San Jose,411 ms
+162.159.25.53,SJC,North America,San Jose,411 ms
+104.17.46.207,SJC,North America,San Jose,411 ms
+104.19.235.183,SJC,North America,San Jose,411 ms
+108.162.193.170,SJC,North America,San Jose,411 ms
+104.16.5.119,SJC,North America,San Jose,411 ms
+104.17.99.206,SJC,North America,San Jose,411 ms
+198.41.209.167,SJC,North America,San Jose,411 ms
+104.18.165.178,SJC,North America,San Jose,411 ms
+104.18.76.118,SJC,North America,San Jose,411 ms
+104.16.26.18,SJC,North America,San Jose,411 ms
+104.19.198.50,SJC,North America,San Jose,411 ms
+104.18.251.149,SJC,North America,San Jose,412 ms
+104.18.190.196,SJC,North America,San Jose,412 ms
+104.17.219.62,SJC,North America,San Jose,412 ms
+198.41.214.228,SJC,North America,San Jose,412 ms
+104.18.111.28,SJC,North America,San Jose,412 ms
+104.16.237.227,SJC,North America,San Jose,412 ms
+104.17.244.148,SJC,North America,San Jose,412 ms
+104.19.228.79,SJC,North America,San Jose,412 ms
+172.64.68.174,SJC,North America,San Jose,413 ms
+172.64.91.71,SJC,North America,San Jose,413 ms
+198.41.203.158,SJC,North America,San Jose,413 ms
+104.19.159.178,SJC,North America,San Jose,413 ms
+104.18.144.247,SJC,North America,San Jose,413 ms
+104.16.93.49,SJC,North America,San Jose,413 ms
+104.18.217.174,SJC,North America,San Jose,413 ms
+198.41.217.104,SJC,North America,San Jose,413 ms
+172.64.95.201,SJC,North America,San Jose,413 ms
+172.64.94.74,SJC,North America,San Jose,413 ms
+104.17.213.16,SJC,North America,San Jose,413 ms
+104.18.226.164,SJC,North America,San Jose,414 ms
+104.19.208.199,SJC,North America,San Jose,414 ms
+104.19.153.164,SJC,North America,San Jose,414 ms
+104.17.169.102,SJC,North America,San Jose,414 ms
+104.17.51.214,SJC,North America,San Jose,414 ms
+172.66.3.130,SJC,North America,San Jose,414 ms
+104.19.89.244,SJC,North America,San Jose,415 ms
+104.19.180.79,SJC,North America,San Jose,415 ms
+104.17.134.180,SJC,North America,San Jose,415 ms
+104.17.6.80,SJC,North America,San Jose,415 ms
+104.18.227.91,SJC,North America,San Jose,415 ms
+104.19.183.125,SJC,North America,San Jose,416 ms
+104.18.104.65,SJC,North America,San Jose,416 ms
+104.17.33.25,SJC,North America,San Jose,416 ms
+104.18.129.166,SJC,North America,San Jose,416 ms
+104.18.44.190,SJC,North America,San Jose,416 ms
+104.18.103.212,SJC,North America,San Jose,416 ms
+104.17.221.4,SJC,North America,San Jose,416 ms
+104.18.198.230,SJC,North America,San Jose,416 ms
+198.41.195.73,SJC,North America,San Jose,416 ms
+162.159.60.176,SJC,North America,San Jose,417 ms
+104.18.219.190,SJC,North America,San Jose,417 ms
+198.41.208.62,SJC,North America,San Jose,417 ms
+172.64.145.238,SJC,North America,San Jose,417 ms
+172.64.42.188,SJC,North America,San Jose,417 ms
+104.17.64.224,SJC,North America,San Jose,417 ms
+104.16.151.88,SJC,North America,San Jose,417 ms
+104.18.70.164,SJC,North America,San Jose,417 ms
+104.17.105.158,SJC,North America,San Jose,418 ms
+104.18.179.127,SJC,North America,San Jose,418 ms
+104.17.36.22,SJC,North America,San Jose,418 ms
+198.41.193.47,SJC,North America,San Jose,418 ms
+104.16.194.183,SJC,North America,San Jose,418 ms
+104.17.83.138,SJC,North America,San Jose,418 ms
+172.64.144.72,SJC,North America,San Jose,418 ms
+172.64.148.69,SJC,North America,San Jose,418 ms
+162.159.134.254,SJC,North America,San Jose,418 ms
+104.18.72.189,SJC,North America,San Jose,419 ms
+104.16.20.202,SJC,North America,San Jose,419 ms
+104.19.160.88,SJC,North America,San Jose,419 ms
+104.18.58.135,SJC,North America,San Jose,419 ms
+104.18.105.234,SJC,North America,San Jose,419 ms
+104.16.174.227,SJC,North America,San Jose,419 ms
+172.64.88.22,SJC,North America,San Jose,419 ms
+104.18.123.132,SJC,North America,San Jose,419 ms
+104.18.203.67,SJC,North America,San Jose,419 ms
+104.18.82.158,SJC,North America,San Jose,419 ms
+104.17.211.2,SJC,North America,San Jose,419 ms
+162.159.137.47,SJC,North America,San Jose,419 ms
+104.18.236.87,SJC,North America,San Jose,419 ms
+104.17.146.131,SJC,North America,San Jose,419 ms
+104.16.133.99,SJC,North America,San Jose,419 ms
+172.64.87.203,SJC,North America,San Jose,419 ms
+190.93.246.197,SJC,North America,San Jose,419 ms
+172.65.238.210,SJC,North America,San Jose,420 ms
+104.17.90.217,SJC,North America,San Jose,420 ms
+162.159.239.151,SJC,North America,San Jose,420 ms
+104.17.235.33,SJC,North America,San Jose,420 ms
+104.18.74.8,SJC,North America,San Jose,420 ms
+172.66.40.179,SJC,North America,San Jose,420 ms
+104.16.239.10,SJC,North America,San Jose,420 ms
+104.16.72.98,SJC,North America,San Jose,421 ms
+104.16.94.119,SJC,North America,San Jose,421 ms
+104.18.229.122,SJC,North America,San Jose,421 ms
+1.0.0.98,SJC,North America,San Jose,421 ms
+104.16.79.30,SJC,North America,San Jose,421 ms
+104.19.178.221,SJC,North America,San Jose,421 ms
+141.101.114.37,SJC,North America,San Jose,421 ms
+104.16.61.132,SJC,North America,San Jose,421 ms
+104.16.43.155,SJC,North America,San Jose,421 ms
+104.16.182.42,SJC,North America,San Jose,421 ms
+198.41.207.80,SJC,North America,San Jose,422 ms
+104.18.167.193,SJC,North America,San Jose,422 ms
+104.16.44.117,SJC,North America,San Jose,422 ms
+104.16.216.190,SJC,North America,San Jose,422 ms
+104.18.172.229,SJC,North America,San Jose,422 ms
+104.17.143.184,SJC,North America,San Jose,422 ms
+104.16.80.71,SJC,North America,San Jose,422 ms
+104.16.97.118,SJC,North America,San Jose,423 ms
+104.19.67.42,SJC,North America,San Jose,423 ms
+104.18.148.95,SJC,North America,San Jose,423 ms
+172.64.52.225,SJC,North America,San Jose,423 ms
+104.16.202.188,SJC,North America,San Jose,424 ms
+104.17.94.116,SJC,North America,San Jose,424 ms
+104.18.79.227,SJC,North America,San Jose,424 ms
+162.159.21.44,SJC,North America,San Jose,424 ms
+104.17.71.121,SJC,North America,San Jose,424 ms
+104.17.251.149,SJC,North America,San Jose,424 ms
+162.159.19.206,SJC,North America,San Jose,424 ms
+104.19.202.177,SJC,North America,San Jose,424 ms
+104.18.249.148,SJC,North America,San Jose,424 ms
+104.18.109.246,SJC,North America,San Jose,425 ms
+104.18.12.43,SJC,North America,San Jose,425 ms
+104.16.139.192,SJC,North America,San Jose,425 ms
+104.17.239.21,SJC,North America,San Jose,425 ms
+104.18.118.226,SJC,North America,San Jose,425 ms
+104.18.252.118,SJC,North America,San Jose,426 ms
+104.18.242.145,SJC,North America,San Jose,426 ms
+104.18.134.215,SJC,North America,San Jose,426 ms
+172.64.81.26,SJC,North America,San Jose,426 ms
+104.16.253.59,SJC,North America,San Jose,426 ms
+104.17.242.210,SJC,North America,San Jose,426 ms
+104.17.153.219,SJC,North America,San Jose,427 ms
+104.17.209.21,SJC,North America,San Jose,427 ms
+104.16.13.104,SJC,North America,San Jose,427 ms
+104.17.84.42,SJC,North America,San Jose,428 ms
+104.17.245.3,SJC,North America,San Jose,428 ms
+104.18.160.246,SJC,North America,San Jose,428 ms
+104.17.212.70,SJC,North America,San Jose,428 ms
+104.17.40.208,SJC,North America,San Jose,428 ms
+104.18.234.141,SJC,North America,San Jose,428 ms
+104.16.8.14,SJC,North America,San Jose,429 ms
+104.18.107.219,SJC,North America,San Jose,429 ms
+104.19.79.74,SJC,North America,San Jose,429 ms
+104.18.166.58,SJC,North America,San Jose,429 ms
+104.17.222.228,SJC,North America,San Jose,430 ms
+162.159.3.53,SJC,North America,San Jose,430 ms
+104.18.101.129,SJC,North America,San Jose,430 ms
+104.18.207.26,SJC,North America,San Jose,430 ms
+104.19.179.122,SJC,North America,San Jose,430 ms
+104.17.224.246,SJC,North America,San Jose,430 ms
+104.17.200.173,SJC,North America,San Jose,430 ms
+104.19.48.172,SJC,North America,San Jose,430 ms
+104.16.3.180,SJC,North America,San Jose,431 ms
+104.17.201.156,SJC,North America,San Jose,431 ms
+104.19.242.154,SJC,North America,San Jose,431 ms
+104.17.248.4,SJC,North America,San Jose,431 ms
+104.18.159.48,SJC,North America,San Jose,431 ms
+104.18.91.163,SJC,North America,San Jose,431 ms
+104.18.210.72,SJC,North America,San Jose,432 ms
+104.17.250.171,SJC,North America,San Jose,432 ms
+162.159.46.111,SJC,North America,San Jose,432 ms
+104.17.149.148,SJC,North America,San Jose,432 ms
+104.18.241.161,SJC,North America,San Jose,432 ms
+198.41.221.214,SJC,North America,San Jose,433 ms
+104.19.114.43,SJC,North America,San Jose,433 ms
+104.18.97.107,SJC,North America,San Jose,433 ms
+104.17.240.35,SJC,North America,San Jose,434 ms
+172.64.32.60,SJC,North America,San Jose,434 ms
+104.17.172.249,SJC,North America,San Jose,434 ms
+104.18.152.149,SJC,North America,San Jose,434 ms
+104.17.226.166,SJC,North America,San Jose,435 ms
+104.18.95.63,SJC,North America,San Jose,435 ms
+104.17.227.165,SJC,North America,San Jose,435 ms
+104.19.117.21,SJC,North America,San Jose,436 ms
+104.19.103.130,SJC,North America,San Jose,436 ms
+104.16.242.57,SJC,North America,San Jose,436 ms
+104.16.241.70,SJC,North America,San Jose,436 ms
+104.16.111.39,SJC,North America,San Jose,436 ms
+104.18.135.91,SJC,North America,San Jose,437 ms
+104.16.146.170,SJC,North America,San Jose,438 ms
+104.17.230.90,SJC,North America,San Jose,438 ms
+104.17.186.112,SJC,North America,San Jose,439 ms
+104.17.44.81,SJC,North America,San Jose,439 ms
+172.65.254.218,CDG,Europe,Paris,439 ms
+162.159.194.10,SJC,North America,San Jose,439 ms
+190.93.244.54,SJC,North America,San Jose,440 ms
+190.93.245.47,SJC,North America,San Jose,440 ms
+104.18.173.245,SJC,North America,San Jose,442 ms
+104.18.0.226,SJC,North America,San Jose,444 ms
+162.159.136.123,SJC,North America,San Jose,444 ms
+104.19.255.128,SJC,North America,San Jose,445 ms
+104.17.215.222,SJC,North America,San Jose,446 ms
+104.18.7.222,SJC,North America,San Jose,446 ms
+104.16.238.76,SJC,North America,San Jose,447 ms
+104.18.209.11,SJC,North America,San Jose,447 ms
+104.19.87.63,SJC,North America,San Jose,449 ms
+104.17.237.22,SJC,North America,San Jose,449 ms
+104.17.193.166,SJC,North America,San Jose,449 ms
+104.19.56.116,SJC,North America,San Jose,452 ms
+104.19.30.85,SJC,North America,San Jose,454 ms
+104.19.196.82,SJC,North America,San Jose,455 ms
+104.19.120.176,SJC,North America,San Jose,455 ms
+104.17.142.80,SJC,North America,San Jose,456 ms
+104.19.46.200,SJC,North America,San Jose,457 ms
+104.16.245.208,SJC,North America,San Jose,459 ms
+104.18.80.36,SJC,North America,San Jose,465 ms
+104.19.57.241,SJC,North America,San Jose,469 ms
+104.19.28.122,SJC,North America,San Jose,472 ms
+104.19.12.12,SJC,North America,San Jose,476 ms
+104.19.5.176,SJC,North America,San Jose,483 ms
+104.19.2.150,SJC,North America,San Jose,483 ms
+104.19.1.71,SJC,North America,San Jose,485 ms
+104.19.77.252,SJC,North America,San Jose,487 ms
+104.19.22.66,SJC,North America,San Jose,489 ms
+104.19.122.64,SJC,North America,San Jose,490 ms
+104.19.75.100,SJC,North America,San Jose,491 ms
+104.19.62.232,SJC,North America,San Jose,495 ms
+104.19.112.15,SJC,North America,San Jose,498 ms
+104.19.45.255,SJC,North America,San Jose,498 ms
+104.19.83.148,SJC,North America,San Jose,499 ms
+104.19.36.109,SJC,North America,San Jose,499 ms
+104.19.66.12,SJC,North America,San Jose,507 ms
+104.19.110.178,SJC,North America,San Jose,512 ms
+104.19.61.162,SJC,North America,San Jose,527 ms
+104.19.78.211,SJC,North America,San Jose,528 ms
+104.19.108.23,SJC,North America,San Jose,530 ms
+104.19.96.56,SJC,North America,San Jose,531 ms
+104.19.55.58,SJC,North America,San Jose,534 ms
+104.19.16.87,SJC,North America,San Jose,542 ms
+104.19.13.228,SJC,North America,San Jose,548 ms
+104.19.63.12,SJC,North America,San Jose,549 ms
+104.19.136.90,SJC,North America,San Jose,550 ms
+104.19.109.158,SJC,North America,San Jose,560 ms
+104.19.4.231,SJC,North America,San Jose,562 ms
+104.19.6.135,SJC,North America,San Jose,583 ms
+104.19.26.77,SJC,North America,San Jose,588 ms
+104.19.85.70,SJC,North America,San Jose,616 ms
+104.19.9.134,SJC,North America,San Jose,620 ms
+104.19.86.230,SJC,North America,San Jose,633 ms
+104.19.94.111,SJC,North America,San Jose,634 ms
+104.19.102.155,SJC,North America,San Jose,639 ms
+104.19.15.108,SJC,North America,San Jose,645 ms
+104.19.42.149,SJC,North America,San Jose,649 ms
+104.19.97.158,SJC,North America,San Jose,659 ms
+104.19.93.64,SJC,North America,San Jose,660 ms
+104.19.25.228,SJC,North America,San Jose,661 ms
+104.19.32.212,SJC,North America,San Jose,663 ms
+104.19.99.68,SJC,North America,San Jose,677 ms
+104.19.119.110,SJC,North America,San Jose,685 ms
+104.19.71.172,SJC,North America,San Jose,693 ms
+104.19.81.73,SJC,North America,San Jose,697 ms
+104.19.51.54,SJC,North America,San Jose,700 ms
+104.19.70.128,SJC,North America,San Jose,711 ms
+104.19.132.251,SJC,North America,San Jose,712 ms
+104.19.91.98,SJC,North America,San Jose,713 ms
+104.19.8.247,SJC,North America,San Jose,720 ms
+104.19.58.89,SJC,North America,San Jose,723 ms
+104.19.14.57,SJC,North America,San Jose,723 ms
+104.19.80.215,SJC,North America,San Jose,725 ms
+104.19.23.51,SJC,North America,San Jose,737 ms
+104.19.3.51,SJC,North America,San Jose,738 ms
+104.19.49.110,SJC,North America,San Jose,739 ms
+104.19.72.228,SJC,North America,San Jose,747 ms
+104.19.27.4,SJC,North America,San Jose,753 ms
+104.19.101.195,SJC,North America,San Jose,766 ms
+104.19.17.74,SJC,North America,San Jose,793 ms
+104.18.60.176,SJC,North America,San Jose,833 ms
+104.18.52.99,SJC,North America,San Jose,999 ms
